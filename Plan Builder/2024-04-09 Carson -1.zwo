@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Carson -1 is 6x5-7-minute intervals between 88-94% FTP totaling 36 minutes of Sweet Spot work. Each interval&amp;nbsp;contains a&amp;nbsp;15-second, mid-interval recovery in addition to the 90-second recoveries between each set of intervals.&lt;/p&gt;&lt;p&gt;&lt;p&gt;Optional hill climbing drills are included and optional muscle control work in the form of slow-cadence recommendations are offered as well.&lt;/p&gt;&lt;div&gt;&lt;p&gt;&lt;/div&gt;&lt;/div&gt;</description>
+	<name>2024-04-09 Carson -1</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="150" Power="0.88"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="150" Power="0.88"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="150" Power="0.89"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="150" Power="0.89"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.9"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.9"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.94"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.94"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="210" Power="0.88"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="210" Power="0.88"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="210" Power="0.92"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="210" Power="0.92"/>
+		<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Peters&amp;nbsp;is 6x2-minute largely aerobic efforts at 106% FTP with 4 standing, 6-second sprint-like bursts at 150-200% FTP. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Recoveries between intervals are about 4 minutes long. &lt;/p&gt;</description>
+	<name>2024-08-22 Peters</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.9"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="6" Power="1.5"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="6" Power="1.6"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="6" Power="1.8"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="6" Power="2.0"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.5"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.6"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.8"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="2.0"/>
+		<SteadyState Duration="270" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.5"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.6"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.8"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="2.0"/>
+		<SteadyState Duration="270" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.5"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.6"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.8"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="2.0"/>
+		<SteadyState Duration="270" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.5"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.6"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.8"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="2.0"/>
+		<SteadyState Duration="270" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.5"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.6"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.8"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="2.0"/>
+		<SteadyState Duration="270" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.5"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.6"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.8"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="2.0"/>
+		<Ramp Duration="270" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

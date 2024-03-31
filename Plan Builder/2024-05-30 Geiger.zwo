@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Geiger is 3x12-minute efforts spent in the Sweet Spot (88-94% FTP) with brief, 3-minute recoveries between efforts.&lt;/p&gt;</description>
+	<name>2024-05-30 Geiger</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="120" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.8"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="60" Power="0.85"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="60" Power="0.88"/>
+		<SteadyState Duration="180" Power="0.91"/>
+		<SteadyState Duration="180" Power="0.88"/>
+		<SteadyState Duration="300" Power="0.94"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="0.92"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="0.92"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="0.92"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.91"/>
+		<SteadyState Duration="180" Power="0.94"/>
+		<SteadyState Duration="180" Power="0.88"/>
+		<SteadyState Duration="180" Power="0.91"/>
+		<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

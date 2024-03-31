@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Columbine is 3x10-minute over-under intervals alternating between 3 minutes at 95% FTP and 2 minutes at 105-110% FTP with 6-minute recoveries between intervals.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The set of over-unders is sandwiched by 2x18-minute Endurance intervals spent at 65% FTP. &lt;/p&gt;</description>
+	<name>2024-04-27 Columbine</name>
+	<workout>
+		<Warmup Duration="150" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="150" Power="0.65"/>
+		<SteadyState Duration="180" Power="0.85"/>
+		<SteadyState Duration="1080" Power="0.65"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.1"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.1"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.1"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="1080" Power="0.65"/>
+		<Ramp Duration="240" PowerLow="0.65" PowerHigh="0.55"/>
+	</workout>
+</workout_file>

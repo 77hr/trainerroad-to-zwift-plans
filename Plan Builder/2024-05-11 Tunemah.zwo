@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Tunemah is 3x12-minute over-under intervals alternating between 2 minutes at 95% FTP and 2 minutes at 105% FTP with 10-minute recoveries between intervals.&lt;/p&gt;</description>
+	<name>2024-05-11 Tunemah</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="120" Power="0.6"/>
+		<SteadyState Duration="120" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.9"/>
+		<SteadyState Duration="900" Power="0.6"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="600" Power="0.5"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="600" Power="0.5"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<Ramp Duration="600" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Hot Springs&amp;nbsp;is made up of 3x20-minute intervals between 87-88% FTP. Each long interval is split into shorter segments separated by 60-second recovery valleys, and 4-minute recoveries fall between these segmented intervals. &lt;/p&gt;</description>
+	<name>2024-06-06 Hot Springs</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.67"/>
+		<SteadyState Duration="180" Power="0.85"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="420" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="360" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="420" Power="0.88"/>
+		<SteadyState Duration="240" Power="0.41"/>
+		<SteadyState Duration="420" Power="0.87"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="360" Power="0.87"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="420" Power="0.87"/>
+		<SteadyState Duration="240" Power="0.41"/>
+		<SteadyState Duration="420" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="360" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="420" Power="0.88"/>
+		<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

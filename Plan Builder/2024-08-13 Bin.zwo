@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Bin is a range of Anaerobic intervals ranging from 30 to 65 seconds at 132-145% FTP. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Recovery varies between 1.5 minutes and 5 minutes 20 seconds.&lt;/p&gt;</description>
+	<name>2024-08-13 Bin</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="150" Power="0.7"/>
+		<SteadyState Duration="20" Power="1.2"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.3"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.4"/>
+		<SteadyState Duration="280" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.45"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="35" Power="1.4"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.33"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="65" Power="1.32"/>
+		<SteadyState Duration="250" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.33"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="35" Power="1.4"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.45"/>
+		<SteadyState Duration="320" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.45"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="35" Power="1.4"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.33"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="65" Power="1.32"/>
+		<SteadyState Duration="250" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.33"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="35" Power="1.4"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.45"/>
+		<Ramp Duration="280" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

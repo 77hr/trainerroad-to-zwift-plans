@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Truchas -1 is 2x22-minute Sweet Spot efforts between 90-92% FTP with just 2 minutes of recovery between intervals.&lt;/p&gt;</description>
+	<name>2024-05-09 Truchas -1</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.9"/>
+		<SteadyState Duration="120" Power="0.5"/>
+		<SteadyState Duration="360" Power="0.92"/>
+		<SteadyState Duration="300" Power="0.9"/>
+		<SteadyState Duration="360" Power="0.92"/>
+		<SteadyState Duration="300" Power="0.91"/>
+		<SteadyState Duration="120" Power="0.5"/>
+		<SteadyState Duration="300" Power="0.9"/>
+		<SteadyState Duration="360" Power="0.92"/>
+		<SteadyState Duration="300" Power="0.91"/>
+		<SteadyState Duration="360" Power="0.92"/>
+		<Ramp Duration="180" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Warlow +1 is 5x9-minute over-under intervals alternating between 2 minutes pushed up to 98% FTP and 1 minute still at 110% FTP with 6-minute recoveries between intervals.&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<name>2024-06-22 Warlow +1</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="240" Power="0.65"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<Ramp Duration="360" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

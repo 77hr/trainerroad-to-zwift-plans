@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Joe Devel consists of 4 sets of Anaerobic power repeats in various shapes and sizes, all consisting of microbursts of different work durations but the same 15-second recovery valleys.&lt;/p&gt;&lt;p&gt;&lt;p&gt;Set 1 consists of 15-second On-segments at 150% FTP, set 2 consists of 30-second On-segments at 130% FTP, set 3 consists of 45-second On-segments at 120% FTP and set 4 consists of 18-second On-segments at 140% FTP.&lt;/p&gt;&lt;p&gt;&lt;p&gt;All recoveries between sets are a 7 minutes long.&lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-07-18 Joe Devel</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="120" Power="0.7"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="6" Power="1.3"/>
+		<SteadyState Duration="54" Power="0.45"/>
+		<SteadyState Duration="6" Power="1.4"/>
+		<SteadyState Duration="54" Power="0.45"/>
+		<SteadyState Duration="6" Power="1.5"/>
+		<SteadyState Duration="234" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="420" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.3"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="30" Power="1.3"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="30" Power="1.3"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="30" Power="1.3"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="30" Power="1.3"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="30" Power="1.3"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="30" Power="1.3"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="30" Power="1.3"/>
+		<SteadyState Duration="420" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="45" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="45" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="45" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="45" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="45" Power="1.2"/>
+		<SteadyState Duration="420" Power="0.4"/>
+		<SteadyState Duration="18" Power="1.4"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="18" Power="1.4"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="18" Power="1.4"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="18" Power="1.4"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="18" Power="1.4"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="18" Power="1.4"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="18" Power="1.4"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="18" Power="1.4"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="18" Power="1.4"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="18" Power="1.4"/>
+		<SteadyState Duration="15" Power="0.45"/>
+		<SteadyState Duration="18" Power="1.4"/>
+		<Ramp Duration="117" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>
