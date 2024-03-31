@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Shining Rock is 3 sets of 9x30-second VO2max repeats at 120% FTP with &quot;floats&quot; between efforts lasting 30 seconds each.&lt;/p&gt;&lt;p&gt;&lt;p&gt;Recoveries between sets of repeats are each 5 minutes long.&lt;/p&gt;</description>
+	<name>2024-04-20 Shining Rock</name>
+	<workout>
+		<Warmup Duration="360" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="390" Power="0.72"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<Ramp Duration="270" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

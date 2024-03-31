@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Monitor -4 is 5x6-minute intervals of rolling Sweet Spot (88-94% FTP) riding to address aerobic fitness with a half-hour's worth of time at intensity. 90-second recoveries separate the intervals.&lt;/p&gt;&lt;div&gt;&lt;/div&gt;</description>
+	<name>2024-05-18 Monitor -4</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="90" Power="0.9"/>
+		<SteadyState Duration="150" Power="0.4"/>
+		<SteadyState Duration="60" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.92"/>
+		<SteadyState Duration="240" Power="0.94"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="60" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.88"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.9"/>
+		<SteadyState Duration="180" Power="0.92"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.92"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.92"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.92"/>
+		<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

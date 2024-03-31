@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>45 minutes split into 5x7 minute intervals alternating between 55 and 58% FTP with a 5 minute warmup and 5 minute cooldown.</description>
+	<name>2024-05-23 Svinecea</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.42" PowerLow="0.42"/>
+		<SteadyState Duration="420" Power="0.58"/>
+		<SteadyState Duration="420" Power="0.55"/>
+		<SteadyState Duration="420" Power="0.58"/>
+		<SteadyState Duration="420" Power="0.55"/>
+		<SteadyState Duration="420" Power="0.58"/>
+		<Ramp Duration="300" PowerLow="0.55" PowerHigh="0.45"/>
+	</workout>
+</workout_file>

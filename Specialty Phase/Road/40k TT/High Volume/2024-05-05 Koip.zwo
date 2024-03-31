@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Koip consists of nearly 2.5 hours of aerobic Endurance riding spent between 60-70% FTP and includes form drills like form sprints, endurance spinning, and single-leg focus (SLF) drills.&lt;/p&gt;</description>
+	<name>2024-05-05 Koip</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="240" Power="0.55"/>
+		<SteadyState Duration="1680" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="660" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="1200" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="840" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="780" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="1560" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="960" Power="0.7"/>
+		<Ramp Duration="480" PowerLow="0.7" PowerHigh="0.6"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Merced -1 is 5 sets of 5x40-seconds efforts starting at 135% FTP and finishing at 123% FTP, all with very short, 20-second recoveries between them. &lt;/p&gt;&lt;p&gt;&lt;p&gt;The active recoveries between each set of 40/20's are 5 minutes long.&lt;/p&gt;&lt;p&gt;&lt;/div&gt;</description>
+	<name>2024-04-30 Merced -1</name>
+	<workout>
+		<Warmup Duration="150" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="150" Power="0.65"/>
+		<SteadyState Duration="150" Power="0.8"/>
+		<SteadyState Duration="20" Power="1.2"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="25" Power="1.25"/>
+		<SteadyState Duration="25" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.3"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.35"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.35"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.32"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.29"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.26"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.23"/>
+		<SteadyState Duration="300" Power="0.45"/>
+		<SteadyState Duration="40" Power="1.35"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.32"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.29"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.26"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.23"/>
+		<SteadyState Duration="300" Power="0.45"/>
+		<SteadyState Duration="40" Power="1.35"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.32"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.29"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.26"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.23"/>
+		<SteadyState Duration="300" Power="0.45"/>
+		<SteadyState Duration="40" Power="1.35"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.32"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.29"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.26"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.23"/>
+		<SteadyState Duration="300" Power="0.45"/>
+		<SteadyState Duration="40" Power="1.35"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.32"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.29"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.26"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.23"/>
+		<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

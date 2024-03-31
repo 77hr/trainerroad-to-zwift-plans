@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Mount Goode -4 is 3x12-minute intervals at 95% FTP with 4-minute recoveries between intervals.&lt;/p&gt;</description>
+	<name>2024-04-09 Mount Goode -4</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.9"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="720" Power="0.95"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="720" Power="0.95"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="720" Power="0.95"/>
+		<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

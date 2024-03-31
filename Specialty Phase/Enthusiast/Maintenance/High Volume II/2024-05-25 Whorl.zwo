@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Whorl consists of 75 minutes of aerobic Endurance work spent between 60-70% FTP. Optional form drills include form sprints, endurance-spinning intervals, and various pedalstroke drills.&lt;/p&gt;</description>
+	<name>2024-05-25 Whorl</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.54"/>
+		<SteadyState Duration="180" Power="0.58"/>
+		<SteadyState Duration="1020" Power="0.62"/>
+		<SteadyState Duration="60" Power="0.62"/>
+		<SteadyState Duration="840" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="780" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="780" Power="0.65"/>
+		<Ramp Duration="300" PowerLow="0.65" PowerHigh="0.55"/>
+	</workout>
+</workout_file>

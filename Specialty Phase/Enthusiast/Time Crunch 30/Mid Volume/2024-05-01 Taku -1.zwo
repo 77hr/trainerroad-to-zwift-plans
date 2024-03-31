@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Taku -1 is 30 minutes of Endurance/Recovery spent mostly between 50-60% FTP.&lt;/p&gt;</description>
+	<name>2024-05-01 Taku -1</name>
+	<workout>
+		<Warmup Duration="360" PowerHigh="0.4" PowerLow="0.4"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="60" Power="0.5"/>
+		<SteadyState Duration="420" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="360" Power="0.55"/>
+		<Ramp Duration="240" PowerLow="0.55" PowerHigh="0.45"/>
+	</workout>
+</workout_file>

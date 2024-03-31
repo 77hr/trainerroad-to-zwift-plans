@@ -1,0 +1,3 @@
+Gravity racing relies heavily on high-end power output, but good endurance is still crucially important. The Gravity specialty plan is designed around this reality, focusing on high-end aerobic and anaerobic conditioning without neglecting endurance fitness. Paired with some on-trail skills training, it’s just what you need to elevate your performance in your goal Gravity events.
+
+The low-volume version of this 8-week plan includes 3 workouts per week, each ranging from 60 to 90 minutes in length. An easier 4th week offers the chance for some mid-plan recovery, and the last 2 weeks of the plan serve as a taper, reducing volume but maintaining intensity in the final leadup to your goal event.

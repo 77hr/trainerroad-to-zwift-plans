@@ -1,0 +1,9 @@
+The Time Crunch 45 training plans still cater to time-limited training schedules but afford a little more stress and potentially a little more productivity. Again, riders on other plans can cherrypick shorter "30" or "45" -minute Time Crunch versions of their prescribed workouts when they find themselves a little short on time. 
+
+As can be expected, the warmups are short, the recoveries are brief and the cooldowns flash by pretty quickly. But the work intervals still retain the focus just like the longer versions of each Time Crunch workout. Then when you find yourself with a few extra minutes, your best bet is devoting that time to some extra warmup or you can simply tone down the intensity of the first interval/early few minutes when your time is limited to 45 minutes.
+
+The mid-volume version of the Time Crunch 45 training plan puts you on the bike 5 times each week and separates your weekday workouts with a milder set of intervals during a 3-day stretch. If you find yourself coming into your weekend workouts too tired to hang, consider making your midweek workout even milder by adhering to the suggestions you'll find in each week's tips. 
+
+These plans lack scheduled recovery weeks and are not progressive in nature as their weekly training stress totals hover close to 300 TSS. The intensity of every workout is necessarily on the high side such that you can make the most of your limited training time, but there's no harm in toning down the Workout Intensity by 5-10% on those days where you're a little flat but still capable of some good quality effort. 
+
+With nearly 4 hours of high-quality work on the bike each week, these plans could potentially spur substantial improvements in your capabilities as long as you recognize those signs that tell you to back off a little by toning down or skipping the occasional workout and maybe even adding a recovery week should your motivation or performance plateau.

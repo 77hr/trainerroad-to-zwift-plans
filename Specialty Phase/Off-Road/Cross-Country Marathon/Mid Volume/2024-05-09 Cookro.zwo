@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Cookro&amp;nbsp;is made up of 3x12-minute hard-start intervals that each begin with a 30-second surge at 150% FTP and then quickly settle in at 98% FTP for the remaining 11 minutes. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Each interval is separated by 4 minutes of recovery.&lt;/p&gt;</description>
+	<name>2024-05-09 Cookro</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.72"/>
+		<SteadyState Duration="165" Power="0.95"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="30" Power="0.8"/>
+		<SteadyState Duration="660" Power="0.98"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="30" Power="0.8"/>
+		<SteadyState Duration="660" Power="0.98"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="30" Power="0.8"/>
+		<SteadyState Duration="660" Power="0.98"/>
+		<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

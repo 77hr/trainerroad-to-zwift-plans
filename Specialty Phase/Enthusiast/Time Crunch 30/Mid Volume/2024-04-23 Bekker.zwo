@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;This time-crunched workout&amp;nbsp;is composed of 2x16-minute sets that first step up - 15 seconds at 160% FTP, 30 seconds at 153% FTP, 45 seconds at 147% FTP &amp;amp; finally 60 seconds at 140% FTP - before stepping back down in reverse order.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Recoveries following each interval are twice as long as the interval itself, i.e. 1:2 work to rest ratio.&lt;/p&gt;</description>
+	<name>2024-04-23 Bekker</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="15" Power="1.4"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.6"/>
+		<SteadyState Duration="105" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.6"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.53"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.47"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.4"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.47"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.53"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.6"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.6"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.53"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.47"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.4"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.47"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.53"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.6"/>
+		<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

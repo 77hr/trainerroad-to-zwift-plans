@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Buninyong -2 consists of 3 sets of 3x30-second anaerobic repeats at 150% FTP each followed by a single 1-minute effort at 120% FTP.&lt;/p&gt;&lt;p&gt;&lt;p&gt;Recoveries between each set of intervals last 3 minutes each.&lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-05-07 Buninyong -2</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.75"/>
+		<SteadyState Duration="10" Power="1.5"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.5"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="135" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

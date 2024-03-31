@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>1 hour and 15 minutes split into 5x13 minute intervals alternating between 55 and 72% FTP with a 5 minute warmup and 5 minute cooldown.</description>
+	<name>2024-04-11 Fayette</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.42" PowerLow="0.42"/>
+		<SteadyState Duration="780" Power="0.72"/>
+		<SteadyState Duration="780" Power="0.55"/>
+		<SteadyState Duration="780" Power="0.72"/>
+		<SteadyState Duration="780" Power="0.55"/>
+		<SteadyState Duration="780" Power="0.72"/>
+		<Ramp Duration="300" PowerLow="0.55" PowerHigh="0.45"/>
+	</workout>
+</workout_file>

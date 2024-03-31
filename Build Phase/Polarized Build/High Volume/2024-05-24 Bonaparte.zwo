@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Bonaparte&amp;nbsp;consists of nearly 90 minutes of aerobic Endurance riding spent between 50-58% FTP.&lt;/p&gt;</description>
+	<name>2024-05-24 Bonaparte</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="480" Power="0.52"/>
+		<SteadyState Duration="600" Power="0.54"/>
+		<SteadyState Duration="2520" Power="0.58"/>
+		<Ramp Duration="600" PowerLow="0.58" PowerHigh="0.48"/>
+	</workout>
+</workout_file>

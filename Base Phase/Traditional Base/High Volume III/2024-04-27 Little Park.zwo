@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Little Park&amp;nbsp;consists of nearly 90 minutes of aerobic Endurance riding spent between 50-59% FTP.&lt;/p&gt;</description>
+	<name>2024-04-27 Little Park</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.54"/>
+		<SteadyState Duration="300" Power="0.55"/>
+		<SteadyState Duration="60" Power="0.55"/>
+		<SteadyState Duration="3300" Power="0.59"/>
+		<SteadyState Duration="60" Power="0.59"/>
+		<SteadyState Duration="660" Power="0.55"/>
+		<Ramp Duration="600" PowerLow="0.55" PowerHigh="0.45"/>
+	</workout>
+</workout_file>

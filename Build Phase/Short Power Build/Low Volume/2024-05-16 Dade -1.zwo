@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Dade -1 is three sets of 3x2-minute VO2max repeats at 120% FTP.  2 minutes of recovery fall between intervals and 6 minutes of easy spinning separate each set.&lt;/p&gt;</description>
+	<name>2024-05-16 Dade -1</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="240" Power="0.65"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.45"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="180" Power="0.45"/>
+		<SteadyState Duration="120" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.2"/>
+		<SteadyState Duration="360" Power="0.45"/>
+		<SteadyState Duration="120" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.2"/>
+		<SteadyState Duration="360" Power="0.45"/>
+		<SteadyState Duration="120" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.2"/>
+		<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

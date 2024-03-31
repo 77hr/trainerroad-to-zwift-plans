@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Tower -3 is marginally less punishing than its -2 version since the short recovery valleys grow to a full minute in duration and allow you to shed a little more fatigue prior to start each new step.&lt;/p&gt;&lt;p&gt;&lt;p&gt;Your first 16-minute step starts at 60% FTP until you progress the workload up to 100% FTP during your final step.&lt;/p&gt;</description>
+	<name>2024-04-20 Tower -3</name>
+	<workout>
+		<Warmup Duration="330" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="930" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.29"/>
+		<SteadyState Duration="930" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.3"/>
+		<SteadyState Duration="930" Power="0.8"/>
+		<SteadyState Duration="60" Power="0.3"/>
+		<SteadyState Duration="930" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.3"/>
+		<SteadyState Duration="930" Power="1.0"/>
+		<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

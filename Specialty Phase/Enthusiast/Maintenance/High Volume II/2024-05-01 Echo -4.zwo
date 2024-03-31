@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Echo -4 is 50 total minutes of Tempo work broken into 8x6-minute segments ranging from 70-80% FTP.&lt;/p&gt;</description>
+	<name>2024-05-01 Echo -4</name>
+	<workout>
+		<Warmup Duration="150" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="150" Power="0.65"/>
+		<SteadyState Duration="30" Power="0.65"/>
+		<SteadyState Duration="330" Power="0.75"/>
+		<SteadyState Duration="30" Power="0.75"/>
+		<SteadyState Duration="330" Power="0.8"/>
+		<SteadyState Duration="90" Power="0.8"/>
+		<SteadyState Duration="330" Power="0.7"/>
+		<SteadyState Duration="30" Power="0.7"/>
+		<SteadyState Duration="330" Power="0.75"/>
+		<SteadyState Duration="30" Power="0.75"/>
+		<SteadyState Duration="330" Power="0.8"/>
+		<SteadyState Duration="90" Power="0.8"/>
+		<SteadyState Duration="330" Power="0.7"/>
+		<SteadyState Duration="30" Power="0.7"/>
+		<SteadyState Duration="330" Power="0.75"/>
+		<SteadyState Duration="30" Power="0.75"/>
+		<SteadyState Duration="330" Power="0.8"/>
+		<Ramp Duration="300" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

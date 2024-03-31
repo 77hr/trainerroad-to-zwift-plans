@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Flinders -2 consists of 3 sets of 2x3-minute efforts at 105% FTP. Recoveries between intervals only last a quick 30 seconds and recoveries between sets of intervals are 90 seconds long.&lt;/p&gt;</description>
+	<name>2024-05-21 Flinders -2</name>
+	<workout>
+		<Warmup Duration="90" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="90" Power="0.73"/>
+		<SteadyState Duration="90" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.05"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.05"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.05"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.05"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.05"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.05"/>
+		<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

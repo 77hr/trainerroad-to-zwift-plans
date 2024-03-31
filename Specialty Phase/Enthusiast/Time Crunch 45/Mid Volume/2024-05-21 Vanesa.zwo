@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Vanesa consists of 2 rounds of 5x90-second efforts between 107-115% with very short, 30-second recoveries between intervals and a 3-minute recovery between the 2 sets of intervals.&lt;/p&gt;</description>
+	<name>2024-05-21 Vanesa</name>
+	<workout>
+		<Warmup Duration="90" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="90" Power="0.7"/>
+		<SteadyState Duration="20" Power="1.15"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.15"/>
+		<SteadyState Duration="100" Power="0.39"/>
+		<SteadyState Duration="90" Power="1.07"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.09"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.11"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.13"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.15"/>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="90" Power="1.07"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.09"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.11"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.13"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.15"/>
+		<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

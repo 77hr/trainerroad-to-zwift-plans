@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Johnstrup consists of 3x13.5-minute sets of 30/30's where 30 seconds are spent at 125-130% FTP followed immediately by 30 seconds of active recovery.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The recovery valleys between between each set are 8 minutes long.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<name>2024-04-06 Johnstrup</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="12" Power="1.25"/>
+		<SteadyState Duration="48" Power="0.4"/>
+		<SteadyState Duration="18" Power="1.25"/>
+		<SteadyState Duration="42" Power="0.4"/>
+		<SteadyState Duration="24" Power="1.25"/>
+		<SteadyState Duration="42" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="234" Power="0.41"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.28"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.28"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.26"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.27"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.27"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.27"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="480" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.3"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.3"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.3"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.28"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.29"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.29"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.29"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.26"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.26"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.26"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.26"/>
+		<SteadyState Duration="480" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.27"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.27"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.27"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.27"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.29"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.29"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.29"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.28"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.28"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.26"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.26"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.26"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.26"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.26"/>
+		<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

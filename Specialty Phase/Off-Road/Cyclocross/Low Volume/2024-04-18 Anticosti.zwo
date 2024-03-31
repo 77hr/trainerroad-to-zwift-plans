@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Anticosti is 3 sets of 5&amp;nbsp;intervals ranging from 1-minute to 1-minute and 20 seconds. Intervals are between 120 and&amp;nbsp;125% FTP. Recoveries between intervals are 2 minutes long and recoveries between sets of intervals are 3 m&lt;/p&gt;</description>
+	<name>2024-04-18 Anticosti</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.49" PowerLow="0.49"/>
+		<SteadyState Duration="120" Power="0.69"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="270" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="115" Power="0.4"/>
+		<SteadyState Duration="70" Power="1.25"/>
+		<SteadyState Duration="115" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="180" Power="0.3"/>
+		<SteadyState Duration="80" Power="1.2"/>
+		<SteadyState Duration="95" Power="0.4"/>
+		<SteadyState Duration="80" Power="1.2"/>
+		<SteadyState Duration="95" Power="0.4"/>
+		<SteadyState Duration="80" Power="1.2"/>
+		<SteadyState Duration="95" Power="0.4"/>
+		<SteadyState Duration="80" Power="1.2"/>
+		<SteadyState Duration="95" Power="0.4"/>
+		<SteadyState Duration="80" Power="1.2"/>
+		<SteadyState Duration="180" Power="0.3"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="115" Power="0.4"/>
+		<SteadyState Duration="70" Power="1.25"/>
+		<SteadyState Duration="115" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Picket Guard consists of 5x12-minute over-under intervals alternating between 2 minutes at 90% FTP and 2 minutes at 105% FTP with 4-minute recoveries between intervals.&lt;/p&gt;</description>
+	<name>2024-05-09 Picket Guard</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="30" Power="0.9"/>
+		<SteadyState Duration="30" Power="1.05"/>
+		<SteadyState Duration="30" Power="0.9"/>
+		<SteadyState Duration="30" Power="1.05"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Volunteer is 30 minutes of aerobic Endurance riding spent somewhere between 65-75% FTP.&lt;/p&gt;</description>
+	<name>2024-05-22 Volunteer</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.6"/>
+		<SteadyState Duration="360" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="360" Power="0.75"/>
+		<SteadyState Duration="60" Power="0.75"/>
+		<SteadyState Duration="360" Power="0.65"/>
+		<Ramp Duration="300" PowerLow="0.65" PowerHigh="0.55"/>
+	</workout>
+</workout_file>

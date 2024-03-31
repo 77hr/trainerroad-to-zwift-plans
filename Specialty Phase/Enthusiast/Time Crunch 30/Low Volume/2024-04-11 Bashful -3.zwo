@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Bashful -3 is 2 sets of 5x1-minute intervals at 125% FTP where recoveries between intervals are 1 minute long and recoveries between sets of intervals are 3 minutes long. &lt;/p&gt;</description>
+	<name>2024-04-11 Bashful -3</name>
+	<workout>
+		<Warmup Duration="90" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="90" Power="0.7"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.41"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="210" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="180" Power="0.3"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Quindio&amp;nbsp;is 4x5-minute repeats at 106% FTP where each interval is split in half by a 45-second recovery valley. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Each full interval is separated by a 11 and a half minute recovery valley.&lt;/p&gt;</description>
+	<name>2024-04-04 Quindio</name>
+	<workout>
+		<Warmup Duration="330" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="300" Power="0.72"/>
+		<SteadyState Duration="300" Power="0.96"/>
+		<SteadyState Duration="540" Power="0.5"/>
+		<SteadyState Duration="150" Power="1.06"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="150" Power="1.06"/>
+		<SteadyState Duration="690" Power="0.4"/>
+		<SteadyState Duration="150" Power="1.06"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="150" Power="1.06"/>
+		<SteadyState Duration="675" Power="0.4"/>
+		<SteadyState Duration="150" Power="1.06"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="150" Power="1.06"/>
+		<SteadyState Duration="690" Power="0.4"/>
+		<SteadyState Duration="150" Power="1.06"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="150" Power="1.06"/>
+		<Ramp Duration="495" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,5 @@
+Short Power Build is the season’s second training phase for riders who need the ability to generate repeated bursts of high power. Emphasizing power at VO2 max and repeatability, it sustains the aerobic conditioning you developed during the base phase while increasing your top-end fitness to make you faster.
+
+Each of the high volume version’s 8 weeks includes 6 workouts, for a maximum weekly training volume of around 9.5 hours. Week 4 is an exception—with fewer workouts and a reduced training load, it allows for recovery and adaptation. Likewise, the final week is shorter and easier, so you’ll leave the plan well-rested and ready to begin the next phase of your training.
+
+As is the case with all high-volume training, this plan is designed for experienced athletes who have plateaued with low- and mid-volume approaches.

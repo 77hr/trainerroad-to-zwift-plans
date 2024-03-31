@@ -1,0 +1,1 @@
+Short track races are short, fast, and technically demanding—a bit like the offroad equivalent of criteriums, with just as much excitement and fun. Competitors need repeatable power, good endurance, and a strong sprint, and those are the skills targeted by this 8-week specialty block.

@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Coronet&amp;nbsp;consists of 4 sets of 5x30-second anaerobic repeats at 150% FTP followed by a much longer 4.5-minute effort between 86-88% FTP.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Recoveries between each set of intervals last 6 minutes and 30 seconds each.&lt;/p&gt;</description>
+	<name>2024-04-20 Coronet</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="270" Power="0.76"/>
+		<SteadyState Duration="20" Power="1.5"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.5"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.5"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="390" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="270" Power="0.88"/>
+		<SteadyState Duration="390" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="270" Power="0.86"/>
+		<SteadyState Duration="390" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="270" Power="0.88"/>
+		<SteadyState Duration="390" Power="0.41"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="270" Power="0.86"/>
+		<Ramp Duration="480" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;San Joaquin -2 is 3x5.5-minute sets of 20 seconds at 180% FTP with 40 seconds of active recovery between each interval. &lt;/p&gt;&lt;p&gt;&lt;p&gt;10 minutes of recovery fall between each set of intervals. &lt;/p&gt;&lt;p&gt;</description>
+	<name>2024-04-30 San Joaquin -2</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="20" Power="1.5"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.6"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.7"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="600" Power="0.5"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="600" Power="0.5"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<Ramp Duration="520" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

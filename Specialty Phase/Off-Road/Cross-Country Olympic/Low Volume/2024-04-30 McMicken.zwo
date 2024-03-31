@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;McMicken&amp;nbsp;is 4x4.75-minute intervals at 106% FTP. Each full interval is separated by a 9 and a half minute recovery valley.&amp;nbsp;&lt;/p&gt;</description>
+	<name>2024-04-30 McMicken</name>
+	<workout>
+		<Warmup Duration="90" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="120" Power="0.72"/>
+		<SteadyState Duration="120" Power="0.96"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="285" Power="1.06"/>
+		<SteadyState Duration="570" Power="0.4"/>
+		<SteadyState Duration="285" Power="1.06"/>
+		<SteadyState Duration="570" Power="0.4"/>
+		<SteadyState Duration="285" Power="1.06"/>
+		<SteadyState Duration="570" Power="0.4"/>
+		<SteadyState Duration="285" Power="1.06"/>
+		<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

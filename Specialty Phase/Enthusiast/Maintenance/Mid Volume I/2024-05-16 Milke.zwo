@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Milke is 5 sets of VO2max repeats lasting roughly 4.5 minutes each and consisting of 7x20 seconds at 125% FTP with intermediate floats for 15 seconds at 88% FTP. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;5 minutes of recovery separate each set. &lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-05-16 Milke</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.72"/>
+		<SteadyState Duration="45" Power="0.96"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="45" Power="0.96"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="45" Power="0.96"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<Ramp Duration="185" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

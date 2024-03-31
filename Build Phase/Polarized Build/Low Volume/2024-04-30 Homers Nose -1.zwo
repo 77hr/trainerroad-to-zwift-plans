@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Homers Nose -1 is an hour of mostly Endurance work between 55-65% FTP with recommendations to ride short segments around 120rpm, slightly longer segments around 70rpm, and the longest segments around 90rpm, should you choose to include the drills.&lt;/p&gt;</description>
+	<name>2024-04-30 Homers Nose -1</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.55"/>
+		<SteadyState Duration="180" Power="0.6"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="180" Power="0.62"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.61"/>
+		<SteadyState Duration="120" Power="0.65"/>
+		<SteadyState Duration="240" Power="0.63"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="180" Power="0.62"/>
+		<SteadyState Duration="120" Power="0.65"/>
+		<SteadyState Duration="180" Power="0.63"/>
+		<SteadyState Duration="120" Power="0.65"/>
+		<SteadyState Duration="180" Power="0.63"/>
+		<SteadyState Duration="120" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="180" Power="0.62"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.63"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.62"/>
+		<Ramp Duration="180" PowerLow="0.41" PowerHigh="0.31"/>
+	</workout>
+</workout_file>

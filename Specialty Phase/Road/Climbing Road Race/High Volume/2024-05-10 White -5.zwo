@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;White -5 is 50 continuous minutes of aerobic Endurance work broken into 6x7.5-minute segments ranging from 65-75% FTP.&lt;/p&gt;</description>
+	<name>2024-05-10 White -5</name>
+	<workout>
+		<Warmup Duration="150" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="150" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="450" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="450" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="450" Power="0.75"/>
+		<SteadyState Duration="30" Power="0.75"/>
+		<SteadyState Duration="450" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="450" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="450" Power="0.75"/>
+		<Ramp Duration="270" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

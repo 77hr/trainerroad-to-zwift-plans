@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>Lavagh is 4x7-minute intervals at 105% FTP with 3-minute recoveries between intervals.&lt;br&gt;&lt;br&gt;</description>
+	<name>2024-04-18 Lavagh</name>
+	<workout>
+		<Warmup Duration="280" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="300" Power="0.72"/>
+		<SteadyState Duration="200" Power="0.96"/>
+		<SteadyState Duration="240" Power="0.5"/>
+		<SteadyState Duration="420" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="420" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="420" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="420" Power="1.05"/>
+		<Ramp Duration="360" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

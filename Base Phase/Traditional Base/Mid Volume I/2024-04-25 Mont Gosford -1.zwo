@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Mont Gosford -1 is a lighter version where the entire 75 minutes stays&amp;nbsp;between 60-70% FTP while the intermittent, 1- to 3-minute recoveries at 55% FTP remain the same.&lt;/p&gt;</description>
+	<name>2024-04-25 Mont Gosford -1</name>
+	<workout>
+		<Warmup Duration="210" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="210" Power="0.55"/>
+		<SteadyState Duration="720" Power="0.6"/>
+		<SteadyState Duration="120" Power="0.55"/>
+		<SteadyState Duration="900" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.55"/>
+		<SteadyState Duration="840" Power="0.6"/>
+		<SteadyState Duration="120" Power="0.55"/>
+		<SteadyState Duration="1020" Power="0.65"/>
+		<Ramp Duration="180" PowerLow="0.65" PowerHigh="0.55"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Icy&amp;nbsp;consists of 4 sets of 5x30-second anaerobic repeats at 150% FTP followed by a much longer 6-7 minute effort between 92-95% FTP.&lt;/p&gt;&lt;p&gt;&lt;p&gt;Recoveries between each set of intervals last 7&amp;nbsp;minutes and 30 seconds each.&lt;/p&gt;</description>
+	<name>2024-05-18 Icy</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="240" Power="0.75"/>
+		<SteadyState Duration="10" Power="1.5"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.5"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="285" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="360" Power="0.94"/>
+		<SteadyState Duration="450" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="420" Power="0.92"/>
+		<SteadyState Duration="450" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="360" Power="0.94"/>
+		<SteadyState Duration="450" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="360" Power="0.95"/>
+		<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

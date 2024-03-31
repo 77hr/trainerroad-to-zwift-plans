@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Watchung&amp;nbsp;consists of nearly 90 minutes of aerobic Endurance riding spent between 50-55% FTP.&lt;/p&gt;</description>
+	<name>2024-04-25 Watchung</name>
+	<workout>
+		<Warmup Duration="840" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="480" Power="0.52"/>
+		<SteadyState Duration="780" Power="0.54"/>
+		<SteadyState Duration="1200" Power="0.55"/>
+		<Ramp Duration="2100" PowerLow="0.55" PowerHigh="0.45"/>
+	</workout>
+</workout_file>

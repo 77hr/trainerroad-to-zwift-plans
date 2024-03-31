@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>Following a 10-minute warmup, Coyote consists of 3x5-minute VO2max intervals at 111% FTP each followed by 5 minutes of recovery. The workout concludes with 12 minutes of Threshold work at 98% FTP with cadences changes every 2 minutes. &lt;br&gt;&lt;br&gt;The entire workout includes cadence recommendations for each interval or interval segment.</description>
+	<name>2024-05-09 Coyote</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<SteadyState Duration="60" Power="0.5"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<SteadyState Duration="240" Power="0.5"/>
+		<SteadyState Duration="300" Power="1.11"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="300" Power="1.11"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="300" Power="1.11"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="720" Power="0.98"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<Ramp Duration="480" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

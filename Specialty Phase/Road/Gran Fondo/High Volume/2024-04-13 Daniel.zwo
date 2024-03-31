@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Daniel is made up of 3x20-minute intervals at 85% FTP that are broken up with 2-minute recovery valleys throughout each interval. Recoveries between intervals last 6 minutes.&lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-04-13 Daniel</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="240" Power="0.58"/>
+		<SteadyState Duration="240" Power="0.67"/>
+		<SteadyState Duration="240" Power="0.76"/>
+		<SteadyState Duration="240" Power="0.85"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="300" Power="0.85"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="300" Power="0.85"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="300" Power="0.85"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="300" Power="0.85"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="300" Power="0.85"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="300" Power="0.85"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="300" Power="0.85"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="300" Power="0.85"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="300" Power="0.85"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="300" Power="0.85"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="300" Power="0.85"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="300" Power="0.85"/>
+		<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

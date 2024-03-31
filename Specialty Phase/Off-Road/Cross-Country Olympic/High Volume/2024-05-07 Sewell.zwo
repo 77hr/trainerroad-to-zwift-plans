@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Sewell consists of 4 intervals of 5-minute VO2 max intervals at 108%, 108%, 109%, and 106% FTP.&lt;/p&gt;&lt;p&gt;&lt;p&gt;Active recovery between intervals is 10, 15, and 10-minutes long.&lt;/p&gt;</description>
+	<name>2024-05-07 Sewell</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="300" Power="0.72"/>
+		<SteadyState Duration="180" Power="0.96"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="300" Power="1.08"/>
+		<SteadyState Duration="600" Power="0.4"/>
+		<SteadyState Duration="300" Power="1.08"/>
+		<SteadyState Duration="900" Power="0.4"/>
+		<SteadyState Duration="300" Power="1.09"/>
+		<SteadyState Duration="600" Power="0.4"/>
+		<SteadyState Duration="300" Power="1.06"/>
+		<Ramp Duration="1080" PowerLow="0.65" PowerHigh="0.55"/>
+	</workout>
+</workout_file>

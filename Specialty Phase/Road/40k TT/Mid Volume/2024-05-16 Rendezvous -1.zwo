@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Rendezvous -1 is a slightly less punishing version of this progression workout since it includes very brief, but very welcome, recovery ramps that will allow you to shed a little fatigue prior to start each new step.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Each 10% step lasts 10 minute and starts at 60% FTP and then progresses the workload up to 100% FTP during the final step.&lt;/p&gt;</description>
+	<name>2024-05-16 Rendezvous -1</name>
+	<workout>
+		<Warmup Duration="330" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="570" Power="0.6"/>
+		<SteadyState Duration="30" Power="0.3"/>
+		<SteadyState Duration="570" Power="0.7"/>
+		<SteadyState Duration="30" Power="0.3"/>
+		<SteadyState Duration="570" Power="0.8"/>
+		<SteadyState Duration="30" Power="0.3"/>
+		<SteadyState Duration="570" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.3"/>
+		<SteadyState Duration="570" Power="1.0"/>
+		<Ramp Duration="300" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

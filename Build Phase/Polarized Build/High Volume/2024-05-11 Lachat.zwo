@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Lachat is 2 hours of steady, aerobic Endurance spent between 60-75% FTP.&lt;/p&gt;</description>
+	<name>2024-05-11 Lachat</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="300" Power="0.6"/>
+		<SteadyState Duration="720" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="600" Power="0.67"/>
+		<SteadyState Duration="60" Power="0.67"/>
+		<SteadyState Duration="900" Power="0.72"/>
+		<SteadyState Duration="60" Power="0.72"/>
+		<SteadyState Duration="1200" Power="0.75"/>
+		<SteadyState Duration="60" Power="0.75"/>
+		<SteadyState Duration="840" Power="0.72"/>
+		<SteadyState Duration="60" Power="0.72"/>
+		<SteadyState Duration="1080" Power="0.75"/>
+		<SteadyState Duration="60" Power="0.75"/>
+		<SteadyState Duration="600" Power="0.72"/>
+		<Ramp Duration="300" PowerLow="0.72" PowerHigh="0.62"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Julius Caesar is an ideal combination of VO2 Max efforts and muscle endurance work where you'll face 4x2-minute high-intensity repeats at 120% FTP with 2 minutes of rest between repeats. &lt;/p&gt;&lt;p&gt;&lt;p&gt;Following a longer, 8-minute stretch of recovery, you'll tackle 4x3-minute Over-Unders consisting of 2 minutes at 95% FTP and 1min at 110% FTP in a couple formats. &lt;/p&gt;&lt;p&gt;&lt;p&gt;You'll rest for 2 minutes after each Over-Under.&lt;/p&gt;</description>
+	<name>2024-05-14 Julius Caesar</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="240" Power="0.72"/>
+		<SteadyState Duration="180" Power="0.96"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.2"/>
+		<SteadyState Duration="480" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

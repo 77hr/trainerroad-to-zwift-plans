@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>Date is nine 2-minute intervals at 106% FTP. The recoveries are 5 minutes 15 seconds long.</description>
+	<name>2024-04-09 Date</name>
+	<workout>
+		<Warmup Duration="360" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="360" Power="0.7"/>
+		<SteadyState Duration="180" Power="1.0"/>
+		<SteadyState Duration="360" Power="0.5"/>
+		<SteadyState Duration="120" Power="1.06"/>
+		<SteadyState Duration="310" Power="0.48"/>
+		<SteadyState Duration="120" Power="1.06"/>
+		<SteadyState Duration="315" Power="0.5"/>
+		<SteadyState Duration="120" Power="1.06"/>
+		<SteadyState Duration="315" Power="0.48"/>
+		<SteadyState Duration="120" Power="1.06"/>
+		<SteadyState Duration="315" Power="0.5"/>
+		<SteadyState Duration="120" Power="1.06"/>
+		<SteadyState Duration="315" Power="0.48"/>
+		<SteadyState Duration="120" Power="1.06"/>
+		<SteadyState Duration="315" Power="0.5"/>
+		<SteadyState Duration="120" Power="1.06"/>
+		<SteadyState Duration="315" Power="0.48"/>
+		<SteadyState Duration="120" Power="1.06"/>
+		<SteadyState Duration="315" Power="0.5"/>
+		<SteadyState Duration="120" Power="1.06"/>
+		<Ramp Duration="545" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

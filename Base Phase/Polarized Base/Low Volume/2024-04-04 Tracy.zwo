@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>Tracy is 5x9-minute intervals at 95% FTP but the recoveries shrink to 5 minutes at 50% FTP.&lt;br&gt;&lt;br&gt;</description>
+	<name>2024-04-04 Tracy</name>
+	<workout>
+		<Warmup Duration="360" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="360" Power="0.72"/>
+		<SteadyState Duration="180" Power="0.96"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="540" Power="0.95"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="540" Power="0.95"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="540" Power="0.95"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="540" Power="0.95"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="540" Power="0.95"/>
+		<Ramp Duration="300" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

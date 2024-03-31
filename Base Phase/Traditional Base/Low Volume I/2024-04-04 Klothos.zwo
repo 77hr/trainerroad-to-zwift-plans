@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Klothos&amp;nbsp;consists of nearly 75 minutes of aerobic Endurance riding spent between 50-66% FTP.&lt;/p&gt;</description>
+	<name>2024-04-04 Klothos</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="240" Power="0.54"/>
+		<SteadyState Duration="240" Power="0.61"/>
+		<SteadyState Duration="3120" Power="0.66"/>
+		<Ramp Duration="600" PowerLow="0.66" PowerHigh="0.56"/>
+	</workout>
+</workout_file>

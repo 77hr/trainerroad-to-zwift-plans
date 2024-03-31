@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Baird is 3 sets of 5x1-minute intervals at 120% FTP where recoveries between intervals are 1 minute long and recoveries between sets of intervals are 8 minutes long. &lt;/p&gt;</description>
+	<name>2024-04-11 Baird</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="30" Power="1.1"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="270" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="480" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="480" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

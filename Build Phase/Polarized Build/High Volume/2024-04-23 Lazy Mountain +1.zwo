@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Lazy Mountain is 1 hour of easy, steady effort between 55-60% FTP.&lt;/p&gt;</description>
+	<name>2024-04-23 Lazy Mountain +1</name>
+	<workout>
+		<Warmup Duration="1320" PowerHigh="0.4" PowerLow="0.4"/>
+		<SteadyState Duration="900" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="1080" Power="0.55"/>
+		<Ramp Duration="240" PowerLow="0.55" PowerHigh="0.45"/>
+	</workout>
+</workout_file>

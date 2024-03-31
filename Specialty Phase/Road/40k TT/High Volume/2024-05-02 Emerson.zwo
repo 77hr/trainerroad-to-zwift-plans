@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Emerson consists of 5x10-minute over-under intervals spent slightly above or slightly below FTP where 3 minutes at 95% FTP alternate with 2 minute at 105% FTP.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;5 minutes of active recovery fall between each interval.&lt;/p&gt;</description>
+	<name>2024-05-02 Emerson</name>
+	<workout>
+		<Warmup Duration="210" PowerHigh="0.49" PowerLow="0.49"/>
+		<SteadyState Duration="210" Power="0.65"/>
+		<SteadyState Duration="180" Power="0.8"/>
+		<SteadyState Duration="180" Power="1.0"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

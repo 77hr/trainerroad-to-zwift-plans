@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Spruce -2 is 2x20-minute intervals at 85% FTP with a 5-minute recovery between intervals. &lt;/p&gt;</description>
+	<name>2024-04-04 Spruce -2</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.72"/>
+		<SteadyState Duration="180" Power="0.96"/>
+		<SteadyState Duration="180" Power="0.43"/>
+		<SteadyState Duration="1200" Power="0.85"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="1200" Power="0.85"/>
+		<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

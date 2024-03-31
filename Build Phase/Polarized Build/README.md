@@ -1,0 +1,1 @@
+The Polarized Build blocks are designed to build upon your aerobic base fitness with a growing emphasis on longer sustained efforts when compared to Polarized Base. Following the traditionally referenced three-zone model for Polarized Training, these plans reside within a polarized training intensity distribution between 80/20 and 95/5.

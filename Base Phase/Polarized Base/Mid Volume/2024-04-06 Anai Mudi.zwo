@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>Anai Mudi consists of 4x7-minute intervals at 100% FTP with 7-minute recoveries between repeats.&lt;br&gt;&lt;br&gt;</description>
+	<name>2024-04-06 Anai Mudi</name>
+	<workout>
+		<Warmup Duration="360" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="360" Power="0.72"/>
+		<SteadyState Duration="180" Power="0.96"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="420" Power="1.0"/>
+		<SteadyState Duration="420" Power="0.5"/>
+		<SteadyState Duration="420" Power="1.0"/>
+		<SteadyState Duration="420" Power="0.5"/>
+		<SteadyState Duration="420" Power="1.0"/>
+		<SteadyState Duration="420" Power="0.5"/>
+		<SteadyState Duration="420" Power="1.0"/>
+		<Ramp Duration="360" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

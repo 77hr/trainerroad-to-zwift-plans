@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;3 sets of ascending-intensity/descending-duration VO2max repeats starting with 3x3-minutes at 105-109% FTP with 5-minute recoveries. &lt;/p&gt;&lt;p&gt;Followed by 4x30-second bursts at 119% FTP with 45 seconds of rest.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Next is 4x2-minute efforts at 100-114% FTP with 4-minute recoveries. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Finally, 3x1-minute repeats at 120-130% FTP with 2-minute recoveries close out the workout.&lt;/p&gt;</description>
+	<name>2024-04-20 Teenie</name>
+	<workout>
+		<Warmup Duration="150" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="150" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.05"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.08"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.12"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.05"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.07"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.09"/>
+		<SteadyState Duration="420" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.19"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.19"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.19"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.19"/>
+		<SteadyState Duration="345" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.0"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.1"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.12"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.14"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.3"/>
+		<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

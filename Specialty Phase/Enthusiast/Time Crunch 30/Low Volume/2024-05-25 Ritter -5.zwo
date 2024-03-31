@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;The time-crunched version of Ritter consists of another version of over-under intervals, each lasting 5-8 minutes where the intervals alternate from 45 seconds between 95-97% FTP to 15 seconds between 110-120% FTP. &lt;/p&gt;&lt;p&gt;&lt;p&gt;Recoveries between intervals are each 2 minutes long.&lt;/p&gt;</description>
+	<name>2024-05-25 Ritter -5</name>
+	<workout>
+		<Warmup Duration="60" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="45" Power="0.9"/>
+		<SteadyState Duration="15" Power="1.1"/>
+		<SteadyState Duration="45" Power="0.95"/>
+		<SteadyState Duration="15" Power="1.1"/>
+		<SteadyState Duration="120" Power="0.39"/>
+		<SteadyState Duration="45" Power="0.95"/>
+		<SteadyState Duration="15" Power="1.1"/>
+		<SteadyState Duration="45" Power="0.95"/>
+		<SteadyState Duration="15" Power="1.1"/>
+		<SteadyState Duration="45" Power="0.97"/>
+		<SteadyState Duration="15" Power="1.15"/>
+		<SteadyState Duration="45" Power="0.95"/>
+		<SteadyState Duration="15" Power="1.1"/>
+		<SteadyState Duration="45" Power="0.95"/>
+		<SteadyState Duration="15" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="45" Power="0.95"/>
+		<SteadyState Duration="15" Power="1.1"/>
+		<SteadyState Duration="45" Power="0.96"/>
+		<SteadyState Duration="15" Power="1.15"/>
+		<SteadyState Duration="45" Power="0.95"/>
+		<SteadyState Duration="15" Power="1.2"/>
+		<SteadyState Duration="45" Power="0.96"/>
+		<SteadyState Duration="15" Power="1.1"/>
+		<SteadyState Duration="45" Power="0.97"/>
+		<SteadyState Duration="15" Power="1.15"/>
+		<SteadyState Duration="45" Power="0.97"/>
+		<SteadyState Duration="15" Power="1.2"/>
+		<SteadyState Duration="45" Power="0.95"/>
+		<SteadyState Duration="15" Power="1.1"/>
+		<SteadyState Duration="45" Power="0.97"/>
+		<SteadyState Duration="15" Power="1.15"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="45" Power="0.96"/>
+		<SteadyState Duration="15" Power="1.15"/>
+		<SteadyState Duration="45" Power="0.96"/>
+		<SteadyState Duration="15" Power="1.2"/>
+		<SteadyState Duration="45" Power="0.97"/>
+		<SteadyState Duration="15" Power="1.1"/>
+		<SteadyState Duration="45" Power="0.96"/>
+		<SteadyState Duration="15" Power="1.15"/>
+		<SteadyState Duration="45" Power="0.96"/>
+		<SteadyState Duration="15" Power="1.15"/>
+		<SteadyState Duration="45" Power="0.95"/>
+		<SteadyState Duration="15" Power="1.2"/>
+		<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

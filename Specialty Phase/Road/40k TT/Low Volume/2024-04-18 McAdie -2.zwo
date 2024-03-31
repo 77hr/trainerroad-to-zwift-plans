@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;McAdie -2 is 3x12-minute over-under intervals alternating between 2 minutes at 95% FTP and 1 minute at 105% FTP.&lt;/p&gt;&lt;p&gt;&lt;p&gt;5-minute recoveries fall between intervals.&lt;/p&gt;&lt;p&gt;&lt;/div&gt;</description>
+	<name>2024-04-18 McAdie -2</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="120" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.8"/>
+		<SteadyState Duration="120" Power="0.96"/>
+		<SteadyState Duration="240" Power="0.41"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="60" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="60" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="60" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="60" Power="1.05"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="60" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="60" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="60" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="60" Power="1.05"/>
+		<SteadyState Duration="300" Power="0.41"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="60" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="60" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="60" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="60" Power="1.05"/>
+		<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,1 @@
+Some cyclists need all-around fitness, with strong abilities in sustained power, high-intensity repeats, and everything in between. This balanced approach is what you’ll get with General Build plans, which prepare you well for a wide variety of events and disciplines. If versatility is more important to you than narrow specialization, these 8-week plans are the ideal choice.

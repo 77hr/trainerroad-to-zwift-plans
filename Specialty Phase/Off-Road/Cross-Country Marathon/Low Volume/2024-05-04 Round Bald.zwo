@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Round Bald is 3x20-minute intervals at 85% FTP with 5-minute recoveries between each. &lt;/p&gt;</description>
+	<name>2024-05-04 Round Bald</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="240" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.9"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="1200" Power="0.85"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="1200" Power="0.85"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="1200" Power="0.85"/>
+		<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

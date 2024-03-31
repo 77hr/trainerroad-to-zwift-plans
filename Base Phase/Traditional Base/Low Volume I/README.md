@@ -1,0 +1,3 @@
+The first 4 weeks of Traditional Base focus entirely on building aerobic endurance with low-intensity rides. With this low-volume version of the plan, time-crunched riders will complete 3 workouts each week, with a maximum weekly time investment of just under 5 hours. The final week is a bit easier than the weeks preceding it to allow for recovery.
+
+This plan is designed to be followed up with Traditional Base II.

@@ -1,0 +1,3 @@
+Races and rides with big climbs require many of the same skills as other terrain—endurance, a strong sprint, and the ability to attack above threshold. But long ascents place a unique focus on sustained power, and the Climbing Road Race plans are specially designed to develop this ability.
+
+These plans include plenty of above-threshold work that benefits every roadie, but add an additional emphasis on the sustained near-threshold power that you’ll need to drop the pack on long climbs, especially after hours of challenging racing. If your goal events include long uphill efforts, this is the plan for you.

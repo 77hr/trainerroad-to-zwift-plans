@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Foerster is 3x12-minute sets of 50 seconds all-out (125% FTP) followed closely by 50 seconds of rest where the less predictable spacing of efforts is meant to surprise riders &amp;amp; keep them attentive.&lt;/p&gt;&lt;p&gt;&lt;p&gt;4 minutes of recovery separates each set of intervals.&lt;/p&gt;</description>
+	<name>2024-05-07 Foerster</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="120" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.8"/>
+		<SteadyState Duration="30" Power="1.05"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.15"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="140" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="240" Power="0.5"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="240" Power="0.5"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.25"/>
+		<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

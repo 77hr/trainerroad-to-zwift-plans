@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;McGregor -5 is made up of 3x15-minute intervals at 88% FTP. Each long interval is split into shorter segments separated by 60-second recovery valleys, and 10-minute recoveries fall between these segmented intervals. &lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-04-04 McGregor -5</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.67"/>
+		<SteadyState Duration="180" Power="0.85"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="300" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="300" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="300" Power="0.88"/>
+		<SteadyState Duration="600" Power="0.41"/>
+		<SteadyState Duration="300" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="300" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="300" Power="0.88"/>
+		<SteadyState Duration="600" Power="0.41"/>
+		<SteadyState Duration="300" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="300" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="300" Power="0.88"/>
+		<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Pine Mountain&amp;nbsp;is 2.5 hours of Tempo intervals spent between 70-76% FTP with intermittent, 8 to 9.5-minute recoveries at 55% FTP.&lt;br&gt;&lt;/p&gt;</description>
+	<name>2024-04-14 Pine Mountain</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.57"/>
+		<SteadyState Duration="180" Power="0.64"/>
+		<SteadyState Duration="540" Power="0.7"/>
+		<SteadyState Duration="570" Power="0.55"/>
+		<SteadyState Duration="900" Power="0.7"/>
+		<SteadyState Duration="480" Power="0.55"/>
+		<SteadyState Duration="600" Power="0.76"/>
+		<SteadyState Duration="510" Power="0.55"/>
+		<SteadyState Duration="600" Power="0.76"/>
+		<SteadyState Duration="480" Power="0.55"/>
+		<SteadyState Duration="900" Power="0.7"/>
+		<SteadyState Duration="480" Power="0.55"/>
+		<SteadyState Duration="900" Power="0.7"/>
+		<SteadyState Duration="480" Power="0.55"/>
+		<SteadyState Duration="540" Power="0.76"/>
+		<Ramp Duration="420" PowerLow="0.76" PowerHigh="0.66"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Lee&amp;nbsp;is 116 minutes of continuous progression from 50% FTP all the way up to 104% FTP via gradual&amp;nbsp;increases every 13.5-14 minutes.&lt;/p&gt;</description>
+	<name>2024-05-16 Lee</name>
+	<workout>
+		<Warmup Duration="270" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="810" Power="0.6"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="810" Power="0.66"/>
+		<SteadyState Duration="30" Power="0.66"/>
+		<SteadyState Duration="810" Power="0.72"/>
+		<SteadyState Duration="30" Power="0.72"/>
+		<SteadyState Duration="810" Power="0.77"/>
+		<SteadyState Duration="30" Power="0.77"/>
+		<SteadyState Duration="810" Power="0.83"/>
+		<SteadyState Duration="30" Power="0.83"/>
+		<SteadyState Duration="810" Power="0.88"/>
+		<SteadyState Duration="30" Power="0.88"/>
+		<SteadyState Duration="840" Power="0.99"/>
+		<SteadyState Duration="810" Power="1.04"/>
+		<Ramp Duration="240" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

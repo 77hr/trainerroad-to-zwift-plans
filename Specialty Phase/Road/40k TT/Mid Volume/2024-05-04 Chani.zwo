@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Chani&amp;nbsp;is 2x34.5-minutes of continuous progression from 65-85% FTP and then 80% all the way up to 100% FTP via 10% increases every 11.5-minutes.&lt;/p&gt;</description>
+	<name>2024-05-04 Chani</name>
+	<workout>
+		<Warmup Duration="420" PowerHigh="0.55" PowerLow="0.55"/>
+		<SteadyState Duration="30" Power="0.55"/>
+		<SteadyState Duration="690" Power="0.65"/>
+		<SteadyState Duration="30" Power="0.65"/>
+		<SteadyState Duration="690" Power="0.75"/>
+		<SteadyState Duration="30" Power="0.75"/>
+		<SteadyState Duration="690" Power="0.85"/>
+		<SteadyState Duration="300" Power="0.65"/>
+		<SteadyState Duration="30" Power="0.65"/>
+		<SteadyState Duration="690" Power="0.8"/>
+		<SteadyState Duration="30" Power="0.8"/>
+		<SteadyState Duration="690" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.9"/>
+		<SteadyState Duration="690" Power="1.0"/>
+		<Ramp Duration="360" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

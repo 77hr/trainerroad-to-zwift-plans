@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Whiteleaf +2 is 14 intervals lasting 3-4 minutes each beginning with 1-2 minutes between 95-130% FTP and concluding with 2-3 minutes between 90-95% FTP. &lt;/p&gt;&lt;p&gt;&lt;p&gt;Recoveries between intervals are 2 minutes each.&lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-04-18 Whiteleaf +2</name>
+	<workout>
+		<Warmup Duration="150" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="150" Power="0.65"/>
+		<SteadyState Duration="180" Power="0.8"/>
+		<SteadyState Duration="60" Power="1.0"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.0"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.23"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.23"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.96"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.31"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.03"/>
+		<SteadyState Duration="180" Power="0.91"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.23"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.23"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="120" Power="0.92"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.28"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.24"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.24"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="120" Power="0.93"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.28"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

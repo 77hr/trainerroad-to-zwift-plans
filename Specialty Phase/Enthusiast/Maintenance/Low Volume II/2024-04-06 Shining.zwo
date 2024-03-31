@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Shining consists of&amp;nbsp;4 sets of Anaerobic power repeats ranging from 120-149% FTP lasting either 18 or 24 seconds long. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Recoveries between intervals last just under&amp;nbsp;1 minute and up to just over&amp;nbsp;1.5 minutes while downtime between sets is about 3 minutes in all cases.&lt;/p&gt;</description>
+	<name>2024-04-06 Shining</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="90" Power="0.6"/>
+		<SteadyState Duration="90" Power="0.7"/>
+		<SteadyState Duration="120" Power="0.8"/>
+		<SteadyState Duration="18" Power="1.2"/>
+		<SteadyState Duration="72" Power="0.8"/>
+		<SteadyState Duration="18" Power="1.2"/>
+		<SteadyState Duration="72" Power="0.8"/>
+		<SteadyState Duration="18" Power="1.2"/>
+		<SteadyState Duration="72" Power="0.8"/>
+		<SteadyState Duration="18" Power="1.2"/>
+		<SteadyState Duration="72" Power="0.8"/>
+		<SteadyState Duration="18" Power="1.2"/>
+		<SteadyState Duration="72" Power="0.8"/>
+		<SteadyState Duration="18" Power="1.2"/>
+		<SteadyState Duration="180" Power="0.6"/>
+		<SteadyState Duration="18" Power="1.3"/>
+		<SteadyState Duration="54" Power="0.7"/>
+		<SteadyState Duration="18" Power="1.3"/>
+		<SteadyState Duration="54" Power="0.7"/>
+		<SteadyState Duration="18" Power="1.3"/>
+		<SteadyState Duration="54" Power="0.7"/>
+		<SteadyState Duration="18" Power="1.3"/>
+		<SteadyState Duration="54" Power="0.7"/>
+		<SteadyState Duration="18" Power="1.3"/>
+		<SteadyState Duration="54" Power="0.7"/>
+		<SteadyState Duration="18" Power="1.3"/>
+		<SteadyState Duration="180" Power="0.6"/>
+		<SteadyState Duration="24" Power="1.39"/>
+		<SteadyState Duration="72" Power="0.5"/>
+		<SteadyState Duration="24" Power="1.39"/>
+		<SteadyState Duration="72" Power="0.5"/>
+		<SteadyState Duration="24" Power="1.39"/>
+		<SteadyState Duration="72" Power="0.5"/>
+		<SteadyState Duration="24" Power="1.39"/>
+		<SteadyState Duration="72" Power="0.5"/>
+		<SteadyState Duration="24" Power="1.39"/>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="24" Power="1.49"/>
+		<SteadyState Duration="96" Power="0.7"/>
+		<SteadyState Duration="24" Power="1.49"/>
+		<SteadyState Duration="96" Power="0.7"/>
+		<SteadyState Duration="24" Power="1.49"/>
+		<SteadyState Duration="96" Power="0.6"/>
+		<SteadyState Duration="24" Power="1.49"/>
+		<SteadyState Duration="96" Power="0.6"/>
+		<SteadyState Duration="24" Power="1.49"/>
+		<SteadyState Duration="96" Power="0.5"/>
+		<SteadyState Duration="24" Power="1.49"/>
+		<SteadyState Duration="96" Power="0.5"/>
+		<SteadyState Duration="24" Power="1.49"/>
+		<SteadyState Duration="96" Power="0.5"/>
+		<SteadyState Duration="24" Power="1.49"/>
+		<Ramp Duration="342" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

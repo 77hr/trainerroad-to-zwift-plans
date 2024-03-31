@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Tallac -3 is 3x15-minute efforts between 86-92% FTP with with a couple brief, 30-second intermediate recoveries during each long interval.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Short, 2-minute recoveries fall between intervals.&lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-04-20 Tallac -3</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.88"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="0.86"/>
+		<SteadyState Duration="180" Power="0.88"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.86"/>
+		<SteadyState Duration="300" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.89"/>
+		<SteadyState Duration="60" Power="0.91"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="120" Power="0.88"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.91"/>
+		<SteadyState Duration="180" Power="0.88"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.88"/>
+		<SteadyState Duration="120" Power="0.92"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.89"/>
+		<SteadyState Duration="240" Power="0.92"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="60" Power="0.88"/>
+		<SteadyState Duration="240" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="240" Power="0.88"/>
+		<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

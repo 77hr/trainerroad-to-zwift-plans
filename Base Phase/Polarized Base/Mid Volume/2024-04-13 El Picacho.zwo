@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>El Picacho is 4x9-minute intervals at 95% FTP with 9-minute recoveries at 50% FTP.&lt;br&gt;&lt;br&gt;</description>
+	<name>2024-04-13 El Picacho</name>
+	<workout>
+		<Warmup Duration="360" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="360" Power="0.72"/>
+		<SteadyState Duration="180" Power="0.96"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="540" Power="0.95"/>
+		<SteadyState Duration="540" Power="0.5"/>
+		<SteadyState Duration="540" Power="0.95"/>
+		<SteadyState Duration="540" Power="0.5"/>
+		<SteadyState Duration="540" Power="0.95"/>
+		<SteadyState Duration="540" Power="0.5"/>
+		<SteadyState Duration="540" Power="0.95"/>
+		<Ramp Duration="420" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

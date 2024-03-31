@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Totten Key is 45 minutes of aerobic Endurance riding spent somewhere between 50-56% FTP.&lt;/p&gt;</description>
+	<name>2024-05-21 Totten Key</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.53"/>
+		<SteadyState Duration="660" Power="0.56"/>
+		<SteadyState Duration="840" Power="0.56"/>
+		<SteadyState Duration="480" Power="0.56"/>
+		<Ramp Duration="300" PowerLow="0.56" PowerHigh="0.46"/>
+	</workout>
+</workout_file>

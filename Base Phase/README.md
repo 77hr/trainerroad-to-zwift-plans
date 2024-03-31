@@ -1,0 +1,1 @@
+Base training is where it all begins. It’s the foundation of cycling and triathlon success, developing resilient aerobic fitness and laying the groundwork for higher-intensity, discipline-specific training later on. The importance of base training can’t be overstated—getting faster starts here!

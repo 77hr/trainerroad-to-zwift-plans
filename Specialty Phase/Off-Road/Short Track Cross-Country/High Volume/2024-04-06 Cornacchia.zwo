@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Cornacchia&amp;nbsp;consists of 4 sets of Anaerobic efforts that vary in duration and intensity.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Each interval set is structured as an inverse pyramid, that&amp;nbsp;starts&amp;nbsp;with 15 seconds at 160% FTP, then&amp;nbsp;grows to 45 seconds at 148% FTP, and finally hits 60 seconds at 134% FTP, followed by 45 seconds at 145%&amp;nbsp;FTP, then 30 seconds at 153% FTP and finishes&amp;nbsp;with 15 seconds at 158% FTP.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Recoveries following each interval range from 150 seconds to 270 seconds and recoveries between sets of intervals are 7 minutes long.&lt;/p&gt;</description>
+	<name>2024-04-06 Cornacchia</name>
+	<workout>
+		<Warmup Duration="150" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="150" Power="0.65"/>
+		<SteadyState Duration="180" Power="0.9"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.3"/>
+		<SteadyState Duration="30" Power="0.5"/>
+		<SteadyState Duration="15" Power="1.4"/>
+		<SteadyState Duration="30" Power="0.5"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="30" Power="0.5"/>
+		<SteadyState Duration="15" Power="1.6"/>
+		<SteadyState Duration="330" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.6"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.48"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.35"/>
+		<SteadyState Duration="270" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.45"/>
+		<SteadyState Duration="195" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.53"/>
+		<SteadyState Duration="150" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.58"/>
+		<SteadyState Duration="420" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.6"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.48"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.35"/>
+		<SteadyState Duration="270" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.45"/>
+		<SteadyState Duration="195" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.53"/>
+		<SteadyState Duration="150" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.58"/>
+		<SteadyState Duration="420" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.6"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.48"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.35"/>
+		<SteadyState Duration="270" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.45"/>
+		<SteadyState Duration="195" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.53"/>
+		<SteadyState Duration="150" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.58"/>
+		<SteadyState Duration="420" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.6"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.48"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.35"/>
+		<SteadyState Duration="270" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.45"/>
+		<SteadyState Duration="195" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.53"/>
+		<SteadyState Duration="150" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.58"/>
+		<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Tetlin is 45 minutes of aerobic Endurance riding spent somewhere between 50-58% FTP.&lt;/p&gt;</description>
+	<name>2024-04-17 Tetlin</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.55"/>
+		<SteadyState Duration="660" Power="0.58"/>
+		<SteadyState Duration="60" Power="0.58"/>
+		<SteadyState Duration="720" Power="0.52"/>
+		<SteadyState Duration="60" Power="0.52"/>
+		<SteadyState Duration="480" Power="0.58"/>
+		<Ramp Duration="300" PowerLow="0.58" PowerHigh="0.48"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Monitor +1 is 7x6-minute intervals of rolling Sweet Spot (88-94% FTP) work to address aerobic fitness and muscular endurance via more than 40 minute's worth of time at intensity.&lt;/p&gt;&lt;p&gt;&lt;p&gt;1-minute recoveries separate the intervals. &lt;/p&gt;</description>
+	<name>2024-05-09 Monitor +1</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="120" Power="0.6"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="60" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.92"/>
+		<SteadyState Duration="240" Power="0.94"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.94"/>
+		<SteadyState Duration="240" Power="0.92"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.9"/>
+		<SteadyState Duration="180" Power="0.92"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.92"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.92"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.92"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="240" Power="0.9"/>
+		<SteadyState Duration="120" Power="0.92"/>
+		<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Kern -2 is 3x12-minute sets of intervals where you'll start with 1.5 minutes at 115% FTP followed closely by 1.75 minutes at 105% FTP and finally 2 minutes at 95% FTP before stepping back out the same way you stepped in. &lt;/p&gt;&lt;p&gt;&lt;p&gt;Recoveries between intervals are only 45 seconds and the recoveries between sets of intervals are 6 minutes long.&lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-05-04 Kern -2</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="120" Power="0.65"/>
+		<SteadyState Duration="45" Power="0.8"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="45" Power="0.95"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.15"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.15"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="105" Power="1.05"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="105" Power="1.05"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.15"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.15"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="105" Power="1.05"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="105" Power="1.05"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.15"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.15"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="105" Power="1.05"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="105" Power="1.05"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.15"/>
+		<Ramp Duration="195" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

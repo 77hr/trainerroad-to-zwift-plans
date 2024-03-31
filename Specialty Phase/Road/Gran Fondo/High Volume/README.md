@@ -1,0 +1,5 @@
+The final stage in preparation for a century, gran fondo, or long gravel race, this plan focuses on muscular endurance and fatigue resistance. Its Threshold and Sweet Spot workouts optimize your ability to work at a high percentage of FTP for extended periods; it also includes some high-intensity VO2 max workouts to improve and maintain your aerobic capacity. These targeted workouts equip you to ride longer and harder without actually requiring very long training rides; by the end of the plan you’ll be fully prepared to take on your next long-distance event.
+
+The high-volume version of the 8-week Gran Fondo specialty plan includes 6 workouts per week, each ranging from 60 to 150 minutes. The last 2 weeks of the plan serve as a taper, reducing volume but maintaining intensity in the final leadup to your goal event. 
+
+As with all our high-volume plans, this plan is intended for experienced athletes who have plateaued at lower volumes.

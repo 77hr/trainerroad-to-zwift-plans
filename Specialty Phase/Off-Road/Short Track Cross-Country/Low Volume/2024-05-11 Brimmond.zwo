@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Brimmond&amp;nbsp;consists of 3 sets of 6 descending-duration/ascending intensity intervals from 115% FTP for 2 minutes to 142% FTP for 30 seconds. &lt;/p&gt;&lt;p&gt;&lt;p&gt;Recovery between intervals matches the duration of the preceding interval - work for 2 minutes, rest for 2 minutes.&lt;/p&gt;&lt;p&gt;&lt;p&gt;Recoveries between sets of intervals are 3 minutes long and the main set if followed by 30 minutes at 65% FTP.&lt;/p&gt;</description>
+	<name>2024-05-11 Brimmond</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="120" Power="0.7"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.3"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.15"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="75" Power="1.25"/>
+		<SteadyState Duration="75" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.28"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.37"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.42"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.15"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="75" Power="1.25"/>
+		<SteadyState Duration="75" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.28"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.37"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.42"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.15"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="75" Power="1.25"/>
+		<SteadyState Duration="75" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.28"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.37"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.42"/>
+		<SteadyState Duration="1800" Power="0.65"/>
+		<Ramp Duration="90" PowerLow="0.65" PowerHigh="0.55"/>
+	</workout>
+</workout_file>

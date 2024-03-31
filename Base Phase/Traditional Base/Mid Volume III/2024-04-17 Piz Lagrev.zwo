@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Piz Lagrev is 2 hours of aerobic Endurance riding spent between 55-65% FTP, and includes an early trio of Power Sprints.&lt;/p&gt;&lt;p&gt;&lt;p&gt;Piz Lagrev's optional form drills include Endurance Spinning intervals and some Single-Leg Focus drills.&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;p&gt;</description>
+	<name>2024-04-17 Piz Lagrev</name>
+	<workout>
+		<Warmup Duration="660" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="240" Power="0.55"/>
+		<SteadyState Duration="10" Power="2.0"/>
+		<SteadyState Duration="50" Power="0.2"/>
+		<SteadyState Duration="360" Power="0.55"/>
+		<SteadyState Duration="10" Power="2.0"/>
+		<SteadyState Duration="50" Power="0.2"/>
+		<SteadyState Duration="360" Power="0.55"/>
+		<SteadyState Duration="10" Power="2.0"/>
+		<SteadyState Duration="50" Power="0.2"/>
+		<SteadyState Duration="300" Power="0.55"/>
+		<SteadyState Duration="60" Power="0.55"/>
+		<SteadyState Duration="1500" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="600" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="1500" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="600" Power="0.55"/>
+		<Ramp Duration="660" PowerLow="0.55" PowerHigh="0.45"/>
+	</workout>
+</workout_file>

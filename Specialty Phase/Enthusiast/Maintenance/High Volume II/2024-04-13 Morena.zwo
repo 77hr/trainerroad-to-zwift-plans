@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;4 sets of ascending-intensity/descending-duration VO2max repeats starting with 2x3-minutes at 104-106% FTP with 7:30-minutes of recovery.&lt;/p&gt;&lt;p&gt;Followed by 2x30-second bursts at 118% FTP with 3:00 minutes&amp;nbsp;of rest.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Next is 3x2-minute efforts at 107-108% FTP with 4-minute recoveries.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Finally, 3x1-minute repeats at 108-117% FTP with 2:35-minute recoveries close out the workout.&lt;/p&gt;</description>
+	<name>2024-04-13 Morena</name>
+	<workout>
+		<Warmup Duration="150" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="150" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.05"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.08"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.12"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="330" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.04"/>
+		<SteadyState Duration="450" Power="0.35"/>
+		<SteadyState Duration="180" Power="1.06"/>
+		<SteadyState Duration="605" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.18"/>
+		<SteadyState Duration="180" Power="0.35"/>
+		<SteadyState Duration="30" Power="1.18"/>
+		<SteadyState Duration="605" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.07"/>
+		<SteadyState Duration="230" Power="0.35"/>
+		<SteadyState Duration="120" Power="1.08"/>
+		<SteadyState Duration="230" Power="0.35"/>
+		<SteadyState Duration="120" Power="1.08"/>
+		<SteadyState Duration="390" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.08"/>
+		<SteadyState Duration="155" Power="0.35"/>
+		<SteadyState Duration="60" Power="1.12"/>
+		<SteadyState Duration="155" Power="0.35"/>
+		<SteadyState Duration="60" Power="1.17"/>
+		<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Boarstone -2 is 2 hours of steady, aerobic Endurance spent between 55-65% FTP.&lt;/p&gt;</description>
+	<name>2024-04-13 Boarstone -2</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="300" Power="0.55"/>
+		<SteadyState Duration="900" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="840" Power="0.55"/>
+		<SteadyState Duration="60" Power="0.55"/>
+		<SteadyState Duration="840" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="840" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="840" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="840" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="840" Power="0.6"/>
+		<Ramp Duration="300" PowerLow="0.6" PowerHigh="0.5"/>
+	</workout>
+</workout_file>

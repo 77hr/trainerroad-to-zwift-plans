@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Crater is 3x10-minute intervals between 95-99% FTP with 5-minute recoveries between intervals. &lt;/p&gt;&lt;p&gt;&lt;p&gt;These intervals are bookended by 10-minute stretches of Endurance work that will total 75 minutes of nicely varied ride time.&lt;/p&gt;</description>
+	<name>2024-04-09 Crater</name>
+	<workout>
+		<Warmup Duration="150" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="150" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.85"/>
+		<SteadyState Duration="120" Power="0.5"/>
+		<SteadyState Duration="120" Power="0.74"/>
+		<SteadyState Duration="120" Power="0.72"/>
+		<SteadyState Duration="120" Power="0.74"/>
+		<SteadyState Duration="120" Power="0.72"/>
+		<SteadyState Duration="120" Power="0.74"/>
+		<SteadyState Duration="600" Power="0.95"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="600" Power="0.99"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="600" Power="0.97"/>
+		<SteadyState Duration="120" Power="0.72"/>
+		<SteadyState Duration="120" Power="0.74"/>
+		<SteadyState Duration="120" Power="0.72"/>
+		<SteadyState Duration="120" Power="0.74"/>
+		<SteadyState Duration="120" Power="0.72"/>
+		<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

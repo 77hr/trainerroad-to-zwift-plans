@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Milpitas&amp;nbsp;puts yet another twist on the 3x20 Threshold workout. This format breaks up each of three 20-minute sets--using 1-minute recoveries--as follows: 5 minutes, 4 minutes, 3x3-minutes at 100, and closes things out with 2 minutes all ranging between 95-105% FTP.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Recoveries between each set of intervals last 3 minutes.&lt;/p&gt;</description>
+	<name>2024-04-30 Milpitas</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.85"/>
+		<SteadyState Duration="120" Power="0.45"/>
+		<SteadyState Duration="300" Power="0.95"/>
+		<SteadyState Duration="60" Power="0.55"/>
+		<SteadyState Duration="240" Power="1.0"/>
+		<SteadyState Duration="60" Power="0.55"/>
+		<SteadyState Duration="180" Power="1.0"/>
+		<SteadyState Duration="60" Power="0.55"/>
+		<SteadyState Duration="180" Power="1.0"/>
+		<SteadyState Duration="60" Power="0.55"/>
+		<SteadyState Duration="180" Power="1.02"/>
+		<SteadyState Duration="60" Power="0.55"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="300" Power="0.98"/>
+		<SteadyState Duration="60" Power="0.55"/>
+		<SteadyState Duration="240" Power="1.0"/>
+		<SteadyState Duration="60" Power="0.55"/>
+		<SteadyState Duration="180" Power="1.0"/>
+		<SteadyState Duration="60" Power="0.55"/>
+		<SteadyState Duration="180" Power="1.02"/>
+		<SteadyState Duration="60" Power="0.55"/>
+		<SteadyState Duration="180" Power="1.02"/>
+		<SteadyState Duration="60" Power="0.55"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="300" Power="0.98"/>
+		<SteadyState Duration="60" Power="0.55"/>
+		<SteadyState Duration="240" Power="1.0"/>
+		<SteadyState Duration="60" Power="0.55"/>
+		<SteadyState Duration="180" Power="1.0"/>
+		<SteadyState Duration="60" Power="0.55"/>
+		<SteadyState Duration="180" Power="1.02"/>
+		<SteadyState Duration="60" Power="0.55"/>
+		<SteadyState Duration="180" Power="1.05"/>
+		<SteadyState Duration="60" Power="0.55"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<Ramp Duration="120" PowerLow="0.45" PowerHigh="0.35"/>
+	</workout>
+</workout_file>

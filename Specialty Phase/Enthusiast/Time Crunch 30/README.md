@@ -1,0 +1,3 @@
+Time is a finite resource, and for busy athletes, other obligations need to come before spending hours on the bike. Sometimes this doesn’t even leave enough time for a standard low-volume plan, and that’s when the Time Crunch specialty phases shine. If you’re short on time and looking to maintain general fitness, look no further.
+
+Each workout in the Time Crunch 30 plan is 30 minutes long, chosen to optimize the effect of short training sessions. The low-volume version of the plan is built around high-intensity intervals, and the mid-volume version adds easy endurance rides once a week.

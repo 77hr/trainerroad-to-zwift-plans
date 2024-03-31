@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Jane Bald&amp;nbsp;is 60 minutes of mostly Aerobic Endurance, and Tempo work spent between 70-80% FTP.&lt;/p&gt;&lt;p&gt;It starts with 3x2-minute Force Intervals with 2.5-minute rest periods between them. Then, 11-minute endurance and tempo&amp;nbsp;efforts between 70-80% FTP. The workout concludes with 3x5-8 minute endurance intervals, each of which starts with a 10-second Strength Sprint.&lt;/p&gt;</description>
+	<name>2024-04-16 Jane Bald</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="240" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="240" Power="0.7"/>
+		<SteadyState Duration="30" Power="0.7"/>
+		<SteadyState Duration="120" Power="1.0"/>
+		<SteadyState Duration="150" Power="0.5"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="150" Power="0.5"/>
+		<SteadyState Duration="120" Power="1.1"/>
+		<SteadyState Duration="150" Power="0.5"/>
+		<SteadyState Duration="240" Power="0.7"/>
+		<SteadyState Duration="30" Power="0.7"/>
+		<SteadyState Duration="240" Power="0.8"/>
+		<SteadyState Duration="30" Power="0.8"/>
+		<SteadyState Duration="120" Power="0.75"/>
+		<SteadyState Duration="10" Power="1.8"/>
+		<SteadyState Duration="50" Power="0.2"/>
+		<SteadyState Duration="120" Power="0.7"/>
+		<SteadyState Duration="30" Power="0.7"/>
+		<SteadyState Duration="120" Power="0.75"/>
+		<SteadyState Duration="10" Power="1.8"/>
+		<SteadyState Duration="50" Power="0.2"/>
+		<SteadyState Duration="120" Power="0.75"/>
+		<SteadyState Duration="30" Power="0.75"/>
+		<SteadyState Duration="120" Power="0.8"/>
+		<SteadyState Duration="10" Power="1.8"/>
+		<SteadyState Duration="50" Power="0.2"/>
+		<SteadyState Duration="120" Power="0.75"/>
+		<SteadyState Duration="30" Power="0.75"/>
+		<SteadyState Duration="240" Power="0.7"/>
+		<Ramp Duration="210" PowerLow="0.7" PowerHigh="0.6"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Chopaka is 60 near-continuous minutes of Tempo work broken into 6x10-minute segments ranging from 70-80% FTP with 30-second recovery valleys at the end of each.&lt;/p&gt;</description>
+	<name>2024-05-08 Chopaka</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="300" Power="0.6"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="570" Power="0.7"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="570" Power="0.75"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="570" Power="0.8"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="570" Power="0.7"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="570" Power="0.75"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="570" Power="0.8"/>
+		<Ramp Duration="300" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

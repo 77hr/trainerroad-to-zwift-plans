@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Stanislaus -4 is a couple&amp;nbsp;sets of 7x40/50's where 40 seconds are spent at 127% FTP followed immediately by 50 seconds of recovery.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The sets of repeats are separated by 6 minutes of recovery.&lt;/p&gt;</description>
+	<name>2024-04-09 Stanislaus -4</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="240" Power="0.72"/>
+		<SteadyState Duration="180" Power="0.96"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="40" Power="1.27"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.27"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.27"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.27"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.27"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.27"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.27"/>
+		<SteadyState Duration="360" Power="0.5"/>
+		<SteadyState Duration="40" Power="1.27"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.27"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.27"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.27"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.27"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.27"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.27"/>
+		<Ramp Duration="220" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

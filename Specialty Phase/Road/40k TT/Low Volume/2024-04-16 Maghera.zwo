@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Maghera&amp;nbsp;is 3x9-minute intervals between 101-102% FTP with 7-minute recoveries between intervals.&lt;/p&gt;</description>
+	<name>2024-04-16 Maghera</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="240" Power="0.72"/>
+		<SteadyState Duration="180" Power="0.96"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="540" Power="1.02"/>
+		<SteadyState Duration="420" Power="0.45"/>
+		<SteadyState Duration="540" Power="1.01"/>
+		<SteadyState Duration="420" Power="0.45"/>
+		<SteadyState Duration="540" Power="1.02"/>
+		<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

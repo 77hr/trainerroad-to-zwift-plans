@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Sleeping Beauty +3 is 6 sets of 5x30/15's where 30 seconds are spent at 120% FTP and then immediately followed by 15 seconds of much lighter Endurance work. &lt;/p&gt;&lt;p&gt;&lt;p&gt;Recoveries between sets of intervals are 3.5 minutes long.&lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-04-18 Sleeping Beauty +3</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="300" Power="0.72"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.18"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="210" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="210" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="210" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="210" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="210" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="15" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

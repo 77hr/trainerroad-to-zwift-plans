@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Haeckel -4 is 3 sets of 3x3-minute Threshold intervals that can be treated as slow-force work. &lt;/p&gt;&lt;p&gt;&lt;p&gt;They step up from 95-105% FTP in 5% increments and all recoveries are 1 minute long.&lt;/p&gt;</description>
+	<name>2024-05-21 Haeckel -4</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<SteadyState Duration="60" Power="1.0"/>
+		<SteadyState Duration="60" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="60" Power="0.41"/>
+		<SteadyState Duration="180" Power="1.0"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.05"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.0"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.05"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.0"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.05"/>
+		<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

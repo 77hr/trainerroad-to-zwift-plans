@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Bald -1 is 60 minutes of aerobic Endurance riding spent between 55-60% FTP.&lt;/p&gt;</description>
+	<name>2024-05-21 Bald -1</name>
+	<workout>
+		<Warmup Duration="150" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="150" Power="0.53"/>
+		<SteadyState Duration="150" Power="0.56"/>
+		<SteadyState Duration="150" Power="0.58"/>
+		<SteadyState Duration="900" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="840" Power="0.55"/>
+		<SteadyState Duration="60" Power="0.55"/>
+		<SteadyState Duration="840" Power="0.6"/>
+		<Ramp Duration="300" PowerLow="0.6" PowerHigh="0.5"/>
+	</workout>
+</workout_file>

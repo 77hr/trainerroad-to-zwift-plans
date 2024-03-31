@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Eagle Scout consists of 3x12-minute descending intervals or &quot;strip sets&quot; where each interval is broken into 2 minutes climbing out-of-the-saddle at 107% FTP, 4 minutes of threshold work right at 100% FTP and finally 6 minutes of Sweet Spot work at 93% FTP spent riding aerodynamically.&lt;/p&gt;&lt;p&gt;&lt;p&gt;Recoveries between intervals are each 4 minutes long.&lt;/p&gt;</description>
+	<name>2024-05-14 Eagle Scout</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="120" Power="0.7"/>
+		<SteadyState Duration="60" Power="1.0"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.05"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.07"/>
+		<SteadyState Duration="240" Power="1.0"/>
+		<SteadyState Duration="360" Power="0.93"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.07"/>
+		<SteadyState Duration="240" Power="1.0"/>
+		<SteadyState Duration="360" Power="0.94"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.07"/>
+		<SteadyState Duration="240" Power="1.0"/>
+		<SteadyState Duration="360" Power="0.93"/>
+		<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,1 @@
+These mid-distance offroad plans combine anaerobic, VO2 max, and Sweet Spot intervals, preparing athletes for the unrelenting nature of cross-country MTB racing and riding. Whether you’re interested in reaching the podium or simply want to push your offroad performance, these 8-week blocks will fine-tune your fitness and make you faster.

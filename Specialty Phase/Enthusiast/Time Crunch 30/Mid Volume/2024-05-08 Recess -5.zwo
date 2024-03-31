@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;The Recess rides range anywhere from 20-60 minutes in duration at roughly 50% FTP.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Exhausted rides, also referred to as 'accumulation rides' are performed within 4-24 hours after your last key workout, race, or event - any other physically stressful ride works as well. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;These rides should leave you no more fatigued than you were before you hopped on your bike and there are no strict rules governing effort level as long as these feel recuperative and do not negatively impact your next key workout.&lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-05-08 Recess -5</name>
+	<workout>
+		<Warmup Duration="60" PowerHigh="0.45" PowerLow="0.45"/>
+		<SteadyState Duration="1680" Power="0.5"/>
+		<Ramp Duration="60" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

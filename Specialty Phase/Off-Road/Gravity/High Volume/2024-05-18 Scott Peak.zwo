@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Scott Peak is 45 minutes of easy, aerobic riding with 4x45-second race openers between 135-150% FTP somewhere near the middle of the workout.&amp;nbsp;&lt;br&gt;&lt;br&gt;Recoveries between openers are 90 seconds long.&lt;br&gt;&lt;/p&gt;</description>
+	<name>2024-05-18 Scott Peak</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="240" Power="0.55"/>
+		<SteadyState Duration="240" Power="0.6"/>
+		<SteadyState Duration="240" Power="0.65"/>
+		<SteadyState Duration="45" Power="1.35"/>
+		<SteadyState Duration="90" Power="0.5"/>
+		<SteadyState Duration="45" Power="1.4"/>
+		<SteadyState Duration="90" Power="0.5"/>
+		<SteadyState Duration="45" Power="1.45"/>
+		<SteadyState Duration="90" Power="0.5"/>
+		<SteadyState Duration="45" Power="1.5"/>
+		<SteadyState Duration="900" Power="0.65"/>
+		<Ramp Duration="390" PowerLow="0.65" PowerHigh="0.55"/>
+	</workout>
+</workout_file>

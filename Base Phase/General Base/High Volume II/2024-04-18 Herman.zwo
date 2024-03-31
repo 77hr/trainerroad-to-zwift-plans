@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Herman totals over 70 minutes of Tempo intervals spent between 76-88% FTP with intermittent, 3-minute recoveries at 55% FTP. &lt;/p&gt;</description>
+	<name>2024-04-18 Herman</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="1380" Power="0.76"/>
+		<SteadyState Duration="180" Power="0.55"/>
+		<SteadyState Duration="420" Power="0.88"/>
+		<SteadyState Duration="180" Power="0.55"/>
+		<SteadyState Duration="540" Power="0.8"/>
+		<SteadyState Duration="180" Power="0.55"/>
+		<SteadyState Duration="420" Power="0.88"/>
+		<SteadyState Duration="180" Power="0.55"/>
+		<SteadyState Duration="1380" Power="0.76"/>
+		<Ramp Duration="180" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

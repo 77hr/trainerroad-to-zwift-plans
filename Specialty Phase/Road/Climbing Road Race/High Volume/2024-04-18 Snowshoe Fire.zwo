@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Snowshoe Fire consists of 4x5-minute VO2max intervals at 106% FTP.&amp;nbsp; Active recovery between intervals is 10 minutes long.&lt;/p&gt;</description>
+	<name>2024-04-18 Snowshoe Fire</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="300" Power="0.72"/>
+		<SteadyState Duration="180" Power="0.96"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="300" Power="1.06"/>
+		<SteadyState Duration="600" Power="0.4"/>
+		<SteadyState Duration="300" Power="1.06"/>
+		<SteadyState Duration="600" Power="0.4"/>
+		<SteadyState Duration="300" Power="1.06"/>
+		<SteadyState Duration="600" Power="0.4"/>
+		<SteadyState Duration="300" Power="1.06"/>
+		<Ramp Duration="1260" PowerLow="0.59" PowerHigh="0.49"/>
+	</workout>
+</workout_file>

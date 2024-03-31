@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Bald is 60 minutes of aerobic Endurance riding spent between 65-70% FTP.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Optional form drills include some Endurance Spinning, some Single-Leg Focus &amp;amp; some Kick &amp;amp; Pull form work.&lt;/p&gt;</description>
+	<name>2024-05-22 Bald</name>
+	<workout>
+		<Warmup Duration="150" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="150" Power="0.55"/>
+		<SteadyState Duration="150" Power="0.6"/>
+		<SteadyState Duration="150" Power="0.65"/>
+		<SteadyState Duration="900" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="840" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="840" Power="0.7"/>
+		<Ramp Duration="300" PowerLow="0.7" PowerHigh="0.6"/>
+	</workout>
+</workout_file>

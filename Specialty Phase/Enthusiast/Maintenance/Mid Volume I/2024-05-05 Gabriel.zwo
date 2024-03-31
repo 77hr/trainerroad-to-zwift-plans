@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Gabriel is 2 hours of aerobic Endurance riding spent somewhere between 50-65% FTP.&lt;/p&gt;</description>
+	<name>2024-05-05 Gabriel</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="300" Power="0.53"/>
+		<SteadyState Duration="300" Power="0.56"/>
+		<SteadyState Duration="300" Power="0.59"/>
+		<SteadyState Duration="540" Power="0.61"/>
+		<SteadyState Duration="360" Power="0.64"/>
+		<SteadyState Duration="240" Power="0.6"/>
+		<SteadyState Duration="360" Power="0.61"/>
+		<SteadyState Duration="180" Power="0.59"/>
+		<SteadyState Duration="300" Power="0.62"/>
+		<SteadyState Duration="540" Power="0.58"/>
+		<SteadyState Duration="420" Power="0.61"/>
+		<SteadyState Duration="240" Power="0.63"/>
+		<SteadyState Duration="360" Power="0.61"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="300" Power="0.61"/>
+		<SteadyState Duration="480" Power="0.63"/>
+		<SteadyState Duration="420" Power="0.59"/>
+		<SteadyState Duration="240" Power="0.63"/>
+		<SteadyState Duration="360" Power="0.58"/>
+		<SteadyState Duration="180" Power="0.56"/>
+		<Ramp Duration="300" PowerLow="0.56" PowerHigh="0.46"/>
+	</workout>
+</workout_file>

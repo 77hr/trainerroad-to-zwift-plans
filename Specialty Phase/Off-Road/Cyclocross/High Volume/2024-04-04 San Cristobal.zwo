@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>San Cristobal&amp;nbsp;is nine 2-minute intervals at 108% FTP. The recoveries are 5 minutes long.</description>
+	<name>2024-04-04 San Cristobal</name>
+	<workout>
+		<Warmup Duration="360" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="360" Power="0.7"/>
+		<SteadyState Duration="180" Power="1.0"/>
+		<SteadyState Duration="360" Power="0.5"/>
+		<SteadyState Duration="120" Power="1.08"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="120" Power="1.08"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="120" Power="1.08"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="120" Power="1.08"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="120" Power="1.08"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="120" Power="1.08"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="120" Power="1.08"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="120" Power="1.08"/>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="120" Power="1.08"/>
+		<Ramp Duration="660" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Betsey is another combination workout kicking off with an extended, aerobic warmup followed by 2x8-minute over-under intervals of increasing intensity to simulate a 4-man paceline or team time trial format.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The 45-second valleys start at 80% FTP and ascend to 100% FTP while the 15-second peaks start at 100% FTP and increase to 115% FTP.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Active recoveries between each interval are 15 minutes long, then there's 17 minutes of recovery between the two types of sets.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Part 2 of this workout consists of 2 sets of 2x2-minute VO2max intervals at 109-114% FTP with 6-minute active recoveries between each.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;12 minutes of active recovery fall between the VO2max sets.&lt;/p&gt;</description>
+	<name>2024-04-13 Betsey</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.6"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.8"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="15" Power="1.05"/>
+		<SteadyState Duration="45" Power="0.9"/>
+		<SteadyState Duration="15" Power="1.05"/>
+		<SteadyState Duration="45" Power="0.9"/>
+		<SteadyState Duration="900" Power="0.4"/>
+		<SteadyState Duration="45" Power="0.8"/>
+		<SteadyState Duration="15" Power="1.0"/>
+		<SteadyState Duration="45" Power="0.85"/>
+		<SteadyState Duration="15" Power="1.0"/>
+		<SteadyState Duration="45" Power="0.9"/>
+		<SteadyState Duration="15" Power="1.05"/>
+		<SteadyState Duration="45" Power="0.9"/>
+		<SteadyState Duration="15" Power="1.03"/>
+		<SteadyState Duration="45" Power="0.95"/>
+		<SteadyState Duration="15" Power="1.1"/>
+		<SteadyState Duration="45" Power="0.95"/>
+		<SteadyState Duration="15" Power="1.1"/>
+		<SteadyState Duration="45" Power="1.0"/>
+		<SteadyState Duration="15" Power="1.15"/>
+		<SteadyState Duration="45" Power="1.0"/>
+		<SteadyState Duration="15" Power="1.15"/>
+		<SteadyState Duration="900" Power="0.38"/>
+		<SteadyState Duration="45" Power="0.8"/>
+		<SteadyState Duration="15" Power="1.0"/>
+		<SteadyState Duration="45" Power="0.85"/>
+		<SteadyState Duration="15" Power="1.05"/>
+		<SteadyState Duration="45" Power="0.9"/>
+		<SteadyState Duration="15" Power="1.05"/>
+		<SteadyState Duration="45" Power="0.9"/>
+		<SteadyState Duration="15" Power="1.03"/>
+		<SteadyState Duration="45" Power="0.9"/>
+		<SteadyState Duration="15" Power="1.1"/>
+		<SteadyState Duration="45" Power="0.95"/>
+		<SteadyState Duration="15" Power="1.1"/>
+		<SteadyState Duration="45" Power="1.0"/>
+		<SteadyState Duration="15" Power="1.15"/>
+		<SteadyState Duration="45" Power="1.0"/>
+		<SteadyState Duration="15" Power="1.15"/>
+		<SteadyState Duration="1020" Power="0.38"/>
+		<SteadyState Duration="120" Power="1.09"/>
+		<SteadyState Duration="360" Power="0.38"/>
+		<SteadyState Duration="120" Power="1.14"/>
+		<SteadyState Duration="720" Power="0.38"/>
+		<SteadyState Duration="120" Power="1.14"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.11"/>
+		<Ramp Duration="540" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

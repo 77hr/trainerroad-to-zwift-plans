@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Goethe is 4x10-minute intervals very close to FTP ranging from 98-102% FTP with short, 2-minute recoveries between intervals.&lt;/p&gt;</description>
+	<name>2024-05-07 Goethe</name>
+	<workout>
+		<Warmup Duration="150" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="150" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="600" Power="0.98"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="600" Power="1.0"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="600" Power="1.02"/>
+		<SteadyState Duration="120" Power="0.39"/>
+		<SteadyState Duration="600" Power="1.0"/>
+		<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

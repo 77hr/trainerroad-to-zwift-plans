@@ -1,0 +1,1 @@
+The Time Crunch 45 specialty plans are for athletes who can’t afford to devote long hours to training, but who have 15 more minutes available each day than athletes following the Time Crunch 30 plan. Those extra 15 minutes go a long way, and for many cyclists this minimal amount of high-intensity training can be enough to maintain or even improve fitness.

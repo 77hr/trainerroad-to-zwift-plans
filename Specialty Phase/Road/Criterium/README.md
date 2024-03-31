@@ -1,0 +1,3 @@
+Criteriums are notoriously challenging. These relatively short races favor riders who can surge above threshold dozens of times in a row—all before unleashing an all-out sprint for the finish line. This requires serious aerobic endurance, a high anaerobic capacity, an effective ability to recover, and the neuromuscular coordination to sprint powerfully when tired.
+
+The Criterium Specialty Plans are designed for the needs of criterium racers, as well as any other cyclist whose rides incorporate lots of repeated all-out efforts. Ideally completed following a Short Power Build phase, this plan further sharpens your ability to attack and drop your competitors, over and over again.

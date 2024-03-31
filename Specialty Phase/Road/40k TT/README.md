@@ -1,0 +1,3 @@
+Unlike other disciplines where athletes can recover mid-pack between efforts, time trials are truly unrelenting. Time trialists need the ability to ride steady and ride hard—for extended periods—in an uncomfortable aerodynamic position. It’s a true test of fitness and willpower, and the 40k TT plans are designed to develop both aspects of time trial performance.
+
+These plans target sustained power, as well as an ability to pace yourself and tolerate discomfort. You’ll spend lots of time near threshold in aero position, fine-tuning your fitness for the race against the clock.

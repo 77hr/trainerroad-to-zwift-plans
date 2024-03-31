@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Kaweah Queen consists of&amp;nbsp;4x9-minute intervals in the 95-99% FTP range where riders spend 1-2 minutes at a time standing. Recoveries between intervals are each&amp;nbsp;4 minutes long.&lt;/p&gt;</description>
+	<name>2024-04-04 Kaweah Queen</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="120" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="60" Power="0.97"/>
+		<SteadyState Duration="120" Power="0.96"/>
+		<SteadyState Duration="60" Power="0.98"/>
+		<SteadyState Duration="120" Power="0.96"/>
+		<SteadyState Duration="60" Power="0.99"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.97"/>
+		<SteadyState Duration="60" Power="0.99"/>
+		<SteadyState Duration="120" Power="0.98"/>
+		<SteadyState Duration="60" Power="0.99"/>
+		<SteadyState Duration="120" Power="0.96"/>
+		<SteadyState Duration="60" Power="0.97"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.96"/>
+		<SteadyState Duration="60" Power="0.98"/>
+		<SteadyState Duration="120" Power="0.96"/>
+		<SteadyState Duration="60" Power="0.97"/>
+		<SteadyState Duration="120" Power="0.96"/>
+		<SteadyState Duration="60" Power="0.99"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="60" Power="0.99"/>
+		<SteadyState Duration="120" Power="0.96"/>
+		<SteadyState Duration="60" Power="0.97"/>
+		<SteadyState Duration="120" Power="0.96"/>
+		<SteadyState Duration="60" Power="0.98"/>
+		<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

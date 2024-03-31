@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Flint&amp;nbsp;is 5x2-minute largely aerobic efforts at 105-106% FTP with 4 standing, 6-second sprint-like bursts at 150-190% FTP. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Recoveries between intervals are about 6 minutes long. &lt;/p&gt;</description>
+	<name>2024-04-16 Flint</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.9"/>
+		<SteadyState Duration="630" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.05"/>
+		<SteadyState Duration="6" Power="1.5"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.6"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.8"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.9"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.05"/>
+		<SteadyState Duration="6" Power="1.5"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.6"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.8"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.9"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.05"/>
+		<SteadyState Duration="6" Power="1.5"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.6"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.8"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.9"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.05"/>
+		<SteadyState Duration="6" Power="1.5"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.6"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.8"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.9"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.05"/>
+		<SteadyState Duration="6" Power="1.5"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.6"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.8"/>
+		<SteadyState Duration="24" Power="1.06"/>
+		<SteadyState Duration="6" Power="1.9"/>
+		<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

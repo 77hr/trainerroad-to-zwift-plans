@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Rendezvous is 50 minutes of continuous progression from 60% FTP all the way up to 100% FTP via 10% increases every 10 minutes. &lt;/p&gt;</description>
+	<name>2024-04-04 Rendezvous</name>
+	<workout>
+		<Warmup Duration="330" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="570" Power="0.6"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="570" Power="0.7"/>
+		<SteadyState Duration="30" Power="0.7"/>
+		<SteadyState Duration="570" Power="0.8"/>
+		<SteadyState Duration="30" Power="0.8"/>
+		<SteadyState Duration="570" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.9"/>
+		<SteadyState Duration="570" Power="1.0"/>
+		<Ramp Duration="300" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

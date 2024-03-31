@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Millers&amp;nbsp;consists of nearly 75 minutes of aerobic Endurance riding spent between 50-64% FTP.&lt;/p&gt;</description>
+	<name>2024-04-11 Millers </name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="240" Power="0.54"/>
+		<SteadyState Duration="240" Power="0.58"/>
+		<SteadyState Duration="3120" Power="0.64"/>
+		<Ramp Duration="600" PowerLow="0.64" PowerHigh="0.54"/>
+	</workout>
+</workout_file>

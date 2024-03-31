@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Mokelumne is 1 hour&amp;nbsp;of aerobic Endurance riding mostly spent at 65% FTP and includes 2x20-second sprints.&lt;/p&gt;</description>
+	<name>2024-05-08 Mokelumne</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="300" Power="0.57"/>
+		<SteadyState Duration="900" Power="0.65"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="40" Power="0.2"/>
+		<SteadyState Duration="480" Power="0.65"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="40" Power="0.2"/>
+		<SteadyState Duration="1200" Power="0.65"/>
+		<Ramp Duration="300" PowerLow="0.65" PowerHigh="0.55"/>
+	</workout>
+</workout_file>

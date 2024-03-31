@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Capricorn consists of 2 x 4 minute 45 second intervals and 2 x&amp;nbsp;5-minute intervals at 106% FTP that alternates starting with the slightly shorter interval followed by a longer one etc.&amp;nbsp;&amp;nbsp; Each full interval is separated by a 8 minute and 45 second&amp;nbsp; recovery valley.&lt;/p&gt;</description>
+	<name>2024-05-07 Capricorn </name>
+	<workout>
+		<Warmup Duration="165" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="120" Power="0.72"/>
+		<SteadyState Duration="120" Power="0.96"/>
+		<SteadyState Duration="270" Power="0.5"/>
+		<SteadyState Duration="300" Power="1.06"/>
+		<SteadyState Duration="525" Power="0.4"/>
+		<SteadyState Duration="285" Power="1.06"/>
+		<SteadyState Duration="525" Power="0.4"/>
+		<SteadyState Duration="300" Power="1.06"/>
+		<SteadyState Duration="525" Power="0.4"/>
+		<SteadyState Duration="285" Power="1.06"/>
+		<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

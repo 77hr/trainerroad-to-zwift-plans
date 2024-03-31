@@ -1,0 +1,5 @@
+The Maintenance specialty plans use high-intensity workouts to maintain your existing hard-earned fitness. These plans are excellent for filling in time between training blocks, as well as for when you want to stay fit and fast without targeting specific events or goals. 
+
+Maintenance plans are broken into two 8-week blocks (Maintenance I and Maintenance II) which do not need to be completed in order. These plans are intended as alternate versions of each other, and they can be freely interchanged, combined, or modified as you see fit.
+
+The mid-volume Maintenance specialty plans are 8 weeks long and include 3 high-intensity workouts and one aerobic endurance ride each week. The 4th week of each plan is much easier than those that precede it, allowing for recovery before things ramp back up for 3 more weeks. Finally, the last week of the plan is another recovery week, leaving you fit and fresh for whatever comes next.

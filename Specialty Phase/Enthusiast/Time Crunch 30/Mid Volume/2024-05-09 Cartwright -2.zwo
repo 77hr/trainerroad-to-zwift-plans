@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Cartwright -2 is comprised of 2x10-minute 'Power Steps' where the initial 5 minutes are spent riding slightly below FTP while the latter 5 minutes consist of 1-3% increases in FTP every 30-60 seconds.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The first interval peaks at 106% FTP while the second tops out at 112% FTP, and a short recovery of 2 minutes falls between the intervals.&lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-05-09 Cartwright -2</name>
+	<workout>
+		<Warmup Duration="90" PowerHigh="0.49" PowerLow="0.49"/>
+		<SteadyState Duration="90" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="180" Power="0.42"/>
+		<SteadyState Duration="300" Power="0.96"/>
+		<SteadyState Duration="60" Power="0.98"/>
+		<SteadyState Duration="60" Power="1.0"/>
+		<SteadyState Duration="60" Power="1.02"/>
+		<SteadyState Duration="60" Power="1.04"/>
+		<SteadyState Duration="60" Power="1.06"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="300" Power="0.92"/>
+		<SteadyState Duration="30" Power="0.94"/>
+		<SteadyState Duration="30" Power="0.96"/>
+		<SteadyState Duration="30" Power="0.98"/>
+		<SteadyState Duration="30" Power="1.0"/>
+		<SteadyState Duration="30" Power="1.02"/>
+		<SteadyState Duration="30" Power="1.04"/>
+		<SteadyState Duration="30" Power="1.06"/>
+		<SteadyState Duration="30" Power="1.08"/>
+		<SteadyState Duration="30" Power="1.1"/>
+		<SteadyState Duration="30" Power="1.12"/>
+		<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;4x8-minute Strip Sets starting with 1 minute at 130% FTP followed by 3 minutes at 97% FTP and finally 4 minutes at 94% FTP.&lt;/p&gt;&lt;p&gt;&lt;p&gt;4 minutes of recovery separate the intervals.&lt;/p&gt;</description>
+	<name>2024-04-04 Chamberlin</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.9"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.3"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.3"/>
+		<SteadyState Duration="180" Power="0.97"/>
+		<SteadyState Duration="240" Power="0.94"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.3"/>
+		<SteadyState Duration="180" Power="0.97"/>
+		<SteadyState Duration="240" Power="0.94"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.3"/>
+		<SteadyState Duration="180" Power="0.97"/>
+		<SteadyState Duration="240" Power="0.94"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.3"/>
+		<SteadyState Duration="180" Power="0.97"/>
+		<SteadyState Duration="240" Power="0.94"/>
+		<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

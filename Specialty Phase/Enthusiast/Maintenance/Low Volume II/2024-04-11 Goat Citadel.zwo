@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Goat Citadel&amp;nbsp;is 3 sets of 5x1-minute intervals between 120 and 125% FTP where recoveries between intervals are 2 minutes long and recoveries between sets of intervals are 3 minutes long. &lt;/p&gt;</description>
+	<name>2024-04-11 Goat Citadel</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.52" PowerLow="0.52"/>
+		<SteadyState Duration="120" Power="0.7"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="270" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="180" Power="0.3"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="180" Power="0.3"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.25"/>
+		<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

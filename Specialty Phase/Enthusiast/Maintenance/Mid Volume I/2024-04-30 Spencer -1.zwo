@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Spencer -1 is essentially 6x3-minute VO2max repeats, but they're broken into tightly packed 30-second intervals at 125% FTP paired with brief, 15-second recoveries. &lt;/p&gt;&lt;p&gt;&lt;p&gt;3-minute recoveries fall between each set of intervals. &lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-04-30 Spencer -1</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.6"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="20" Power="1.25"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="25" Power="1.25"/>
+		<SteadyState Duration="25" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="120" Power="0.5"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<Ramp Duration="330" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

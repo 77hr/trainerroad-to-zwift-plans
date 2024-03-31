@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Dans is 30 minutes of active recovery riding spent between 45-55% FTP.&lt;/p&gt;</description>
+	<name>2024-05-24 Dans</name>
+	<workout>
+		<Warmup Duration="660" PowerHigh="0.45" PowerLow="0.45"/>
+		<SteadyState Duration="540" Power="0.55"/>
+		<Ramp Duration="600" PowerLow="0.55" PowerHigh="0.45"/>
+	</workout>
+</workout_file>

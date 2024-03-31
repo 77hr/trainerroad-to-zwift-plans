@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Short, sweet, &amp;amp; moderately intense, Ickes includes a couple 6.5-minute Threshold pyramids comprised of efforts ranging from 30-90 seconds at 101-108% FTP with only 30-second recoveries between intervals and a brief 1-minute spin between pyramids. &lt;/p&gt;&lt;p&gt;&lt;p&gt;Up next are 6 short, 15-second Form Sprints where you'll target seated pedal-speed &amp;amp; control, easing up for 45 seconds between each sprint. &lt;/p&gt;&lt;p&gt;&lt;p&gt;Finally, you'll face 4x1-minute VO2max repeats at 111% FTP with quick 45-second rests between each.&lt;/p&gt;</description>
+	<name>2024-05-18 Ickes</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="120" Power="0.65"/>
+		<SteadyState Duration="30" Power="1.08"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.1"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.12"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.08"/>
+		<SteadyState Duration="30" Power="0.5"/>
+		<SteadyState Duration="60" Power="1.05"/>
+		<SteadyState Duration="30" Power="0.5"/>
+		<SteadyState Duration="90" Power="1.01"/>
+		<SteadyState Duration="30" Power="0.5"/>
+		<SteadyState Duration="60" Power="1.05"/>
+		<SteadyState Duration="30" Power="0.5"/>
+		<SteadyState Duration="30" Power="1.08"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.08"/>
+		<SteadyState Duration="30" Power="0.5"/>
+		<SteadyState Duration="60" Power="1.05"/>
+		<SteadyState Duration="30" Power="0.5"/>
+		<SteadyState Duration="90" Power="1.01"/>
+		<SteadyState Duration="30" Power="0.5"/>
+		<SteadyState Duration="60" Power="1.05"/>
+		<SteadyState Duration="30" Power="0.5"/>
+		<SteadyState Duration="30" Power="1.08"/>
+		<SteadyState Duration="150" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.08"/>
+		<SteadyState Duration="45" Power="0.5"/>
+		<SteadyState Duration="15" Power="1.08"/>
+		<SteadyState Duration="45" Power="0.5"/>
+		<SteadyState Duration="15" Power="1.08"/>
+		<SteadyState Duration="45" Power="0.5"/>
+		<SteadyState Duration="15" Power="1.08"/>
+		<SteadyState Duration="45" Power="0.5"/>
+		<SteadyState Duration="15" Power="1.08"/>
+		<SteadyState Duration="45" Power="0.5"/>
+		<SteadyState Duration="15" Power="1.08"/>
+		<SteadyState Duration="140" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.11"/>
+		<SteadyState Duration="45" Power="0.5"/>
+		<SteadyState Duration="60" Power="1.11"/>
+		<SteadyState Duration="45" Power="0.5"/>
+		<SteadyState Duration="60" Power="1.11"/>
+		<SteadyState Duration="49" Power="0.5"/>
+		<SteadyState Duration="60" Power="1.11"/>
+		<Ramp Duration="306" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

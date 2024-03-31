@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Eyre +1 is 2 sets of 40 continuous minutes of Tempo work each broken into 5x8-minute segments ranging from 72-82% FTP. 15 minutes of recovery fall between the sets.&lt;/p&gt;</description>
+	<name>2024-04-04 Eyre +1</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="300" Power="0.55"/>
+		<SteadyState Duration="300" Power="0.6"/>
+		<SteadyState Duration="480" Power="0.72"/>
+		<SteadyState Duration="480" Power="0.77"/>
+		<SteadyState Duration="480" Power="0.82"/>
+		<SteadyState Duration="480" Power="0.73"/>
+		<SteadyState Duration="480" Power="0.76"/>
+		<SteadyState Duration="900" Power="0.4"/>
+		<SteadyState Duration="480" Power="0.72"/>
+		<SteadyState Duration="480" Power="0.77"/>
+		<SteadyState Duration="480" Power="0.82"/>
+		<SteadyState Duration="480" Power="0.73"/>
+		<SteadyState Duration="480" Power="0.76"/>
+		<Ramp Duration="600" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

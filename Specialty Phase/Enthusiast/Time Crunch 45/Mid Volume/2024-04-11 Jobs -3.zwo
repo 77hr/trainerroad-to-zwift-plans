@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Jobs -3 consists of 4x6-minute efforts at 105% FTP with short, 3-minute recoveries between intervals.&lt;/p&gt;</description>
+	<name>2024-04-11 Jobs -3</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.49" PowerLow="0.49"/>
+		<SteadyState Duration="120" Power="0.76"/>
+		<SteadyState Duration="120" Power="0.97"/>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="360" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.43"/>
+		<SteadyState Duration="360" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="360" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="360" Power="1.05"/>
+		<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

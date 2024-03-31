@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Steele is a short workout comprised of 3x3-minute intervals at 105% FTP with 3.5-minute recoveries between intervals.&lt;/p&gt;</description>
+	<name>2024-05-25 Steele</name>
+	<workout>
+		<Warmup Duration="210" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="60" Power="0.8"/>
+		<SteadyState Duration="60" Power="0.5"/>
+		<SteadyState Duration="60" Power="0.83"/>
+		<SteadyState Duration="60" Power="0.5"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="210" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.05"/>
+		<SteadyState Duration="210" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.05"/>
+		<SteadyState Duration="210" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.05"/>
+		<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

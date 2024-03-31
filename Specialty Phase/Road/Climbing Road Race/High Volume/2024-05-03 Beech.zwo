@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Beech is 60 minutes of aerobic Endurance riding spent somewhere between 65-75% FTP.&lt;/p&gt;</description>
+	<name>2024-05-03 Beech</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.57"/>
+		<SteadyState Duration="180" Power="0.64"/>
+		<SteadyState Duration="900" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="840" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="840" Power="0.75"/>
+		<Ramp Duration="300" PowerLow="0.75" PowerHigh="0.65"/>
+	</workout>
+</workout_file>

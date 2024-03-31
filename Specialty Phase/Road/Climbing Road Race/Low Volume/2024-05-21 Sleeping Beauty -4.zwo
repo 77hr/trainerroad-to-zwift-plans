@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Sleeping Beauty -4 is 3 sets of 5x30/30's where 30 seconds are spent at 115% FTP and then immediately followed by 30 seconds of much lighter Endurance work. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Recoveries between sets of intervals are 4 minutes long.&lt;/p&gt;</description>
+	<name>2024-05-21 Sleeping Beauty -4</name>
+	<workout>
+		<Warmup Duration="360" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="360" Power="0.72"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

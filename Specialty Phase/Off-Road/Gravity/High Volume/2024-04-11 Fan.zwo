@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Fan&amp;nbsp;consists of of intervals that increase in duration starting with 30 seconds at 150% FTP and growing to&amp;nbsp; 60 seconds at 130% FTP.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Recoveries following each interval range between 1.5 minutes and 5 minutes 45 seconds.&lt;/p&gt;</description>
+	<name>2024-04-11 Fan</name>
+	<workout>
+		<Warmup Duration="150" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="150" Power="0.65"/>
+		<SteadyState Duration="180" Power="0.9"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.3"/>
+		<SteadyState Duration="30" Power="0.5"/>
+		<SteadyState Duration="15" Power="1.4"/>
+		<SteadyState Duration="30" Power="0.5"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="30" Power="0.5"/>
+		<SteadyState Duration="15" Power="1.6"/>
+		<SteadyState Duration="405" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.47"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.46"/>
+		<SteadyState Duration="135" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.3"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.47"/>
+		<SteadyState Duration="135" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="345" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.43"/>
+		<SteadyState Duration="135" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.3"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.47"/>
+		<SteadyState Duration="135" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.53"/>
+		<SteadyState Duration="345" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.47"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.46"/>
+		<SteadyState Duration="135" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.3"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.47"/>
+		<SteadyState Duration="135" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="345" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.43"/>
+		<SteadyState Duration="135" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.3"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.47"/>
+		<SteadyState Duration="135" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.53"/>
+		<Ramp Duration="210" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

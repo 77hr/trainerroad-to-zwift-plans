@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Broken Hand consists of nearly 3 hours of aerobic Endurance riding spent between 55-70% FTP.&lt;/p&gt;&lt;p&gt;&lt;p&gt;Some of the optional form drills are Form Sprints, Endurance Spinning intervals, a bit of aero work &amp;amp; some Single-Leg Focus drills to name a few.&lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-05-05 Broken Hand</name>
+	<workout>
+		<Warmup Duration="720" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="1500" Power="0.6"/>
+		<SteadyState Duration="180" Power="0.6"/>
+		<SteadyState Duration="960" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="1200" Power="0.55"/>
+		<SteadyState Duration="180" Power="0.55"/>
+		<SteadyState Duration="1080" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="1200" Power="0.55"/>
+		<SteadyState Duration="180" Power="0.55"/>
+		<SteadyState Duration="960" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="1500" Power="0.6"/>
+		<Ramp Duration="600" PowerLow="0.6" PowerHigh="0.5"/>
+	</workout>
+</workout_file>

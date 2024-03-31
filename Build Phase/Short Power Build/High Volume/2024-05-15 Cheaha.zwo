@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Cheaha is&amp;nbsp;60 minutes of aerobic Endurance riding spent at 70% FTP and includes 3x20-second sprints&amp;nbsp;to increase muscle fiber recruitment.&lt;/p&gt;</description>
+	<name>2024-05-15 Cheaha</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="300" Power="0.6"/>
+		<SteadyState Duration="360" Power="0.7"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="40" Power="0.2"/>
+		<SteadyState Duration="480" Power="0.7"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="40" Power="0.2"/>
+		<SteadyState Duration="480" Power="0.7"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<SteadyState Duration="40" Power="0.2"/>
+		<SteadyState Duration="1200" Power="0.7"/>
+		<Ramp Duration="300" PowerLow="0.7" PowerHigh="0.6"/>
+	</workout>
+</workout_file>

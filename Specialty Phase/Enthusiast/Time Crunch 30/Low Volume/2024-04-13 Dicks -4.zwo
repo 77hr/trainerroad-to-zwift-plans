@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Dicks -4 is 2x8-minute intervals at 105% FTP with 3-minute recoveries between intervals. &lt;/p&gt;</description>
+	<name>2024-04-13 Dicks -4</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.49" PowerLow="0.49"/>
+		<SteadyState Duration="120" Power="0.76"/>
+		<SteadyState Duration="120" Power="0.97"/>
+		<SteadyState Duration="240" Power="0.56"/>
+		<SteadyState Duration="480" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.41"/>
+		<SteadyState Duration="480" Power="1.05"/>
+		<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

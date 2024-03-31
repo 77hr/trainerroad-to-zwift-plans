@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Garhuanga&amp;nbsp;is 2.5 hours of Tempo intervals spent between 70-76% FTP with intermittent, 7-minute recoveries at 55% FTP.&lt;br&gt;&lt;/p&gt;</description>
+	<name>2024-04-21 Garhuanga</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.57"/>
+		<SteadyState Duration="180" Power="0.64"/>
+		<SteadyState Duration="540" Power="0.7"/>
+		<SteadyState Duration="420" Power="0.55"/>
+		<SteadyState Duration="720" Power="0.7"/>
+		<SteadyState Duration="420" Power="0.55"/>
+		<SteadyState Duration="660" Power="0.76"/>
+		<SteadyState Duration="420" Power="0.55"/>
+		<SteadyState Duration="720" Power="0.76"/>
+		<SteadyState Duration="420" Power="0.55"/>
+		<SteadyState Duration="900" Power="0.75"/>
+		<SteadyState Duration="420" Power="0.55"/>
+		<SteadyState Duration="900" Power="0.7"/>
+		<SteadyState Duration="420" Power="0.55"/>
+		<SteadyState Duration="840" Power="0.76"/>
+		<Ramp Duration="600" PowerLow="0.76" PowerHigh="0.66"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;&lt;span&gt;Watering Pond ?is 4x2-minute largely aerobic efforts at 107% FTP with 4 standing 6-second neuromuscular bursts at 150-180% FTP. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Recoveries between intervals are about 12 minutes 54 seconds long. &lt;/span&gt;&lt;/p&gt;</description>
+	<name>2024-04-04 Watering Pond</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="234" Power="0.5"/>
+		<SteadyState Duration="30" Power="1.07"/>
+		<SteadyState Duration="6" Power="1.5"/>
+		<SteadyState Duration="24" Power="1.07"/>
+		<SteadyState Duration="6" Power="1.6"/>
+		<SteadyState Duration="24" Power="1.07"/>
+		<SteadyState Duration="6" Power="1.8"/>
+		<SteadyState Duration="30" Power="1.07"/>
+		<SteadyState Duration="774" Power="0.42"/>
+		<SteadyState Duration="30" Power="1.07"/>
+		<SteadyState Duration="6" Power="1.5"/>
+		<SteadyState Duration="24" Power="1.07"/>
+		<SteadyState Duration="6" Power="1.6"/>
+		<SteadyState Duration="24" Power="1.07"/>
+		<SteadyState Duration="6" Power="1.8"/>
+		<SteadyState Duration="30" Power="1.07"/>
+		<SteadyState Duration="774" Power="0.42"/>
+		<SteadyState Duration="30" Power="1.07"/>
+		<SteadyState Duration="6" Power="1.5"/>
+		<SteadyState Duration="24" Power="1.07"/>
+		<SteadyState Duration="6" Power="1.6"/>
+		<SteadyState Duration="24" Power="1.07"/>
+		<SteadyState Duration="6" Power="1.8"/>
+		<SteadyState Duration="30" Power="1.07"/>
+		<SteadyState Duration="774" Power="0.42"/>
+		<SteadyState Duration="30" Power="1.07"/>
+		<SteadyState Duration="6" Power="1.5"/>
+		<SteadyState Duration="24" Power="1.07"/>
+		<SteadyState Duration="6" Power="1.6"/>
+		<SteadyState Duration="24" Power="1.07"/>
+		<SteadyState Duration="6" Power="1.8"/>
+		<SteadyState Duration="30" Power="1.07"/>
+		<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

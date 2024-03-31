@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Ochsenhorn&amp;nbsp;is 4x4.5-minute intervals at 106% FTP. Each full interval is separated by a 9 minute and 40 second recovery valley.&amp;nbsp;&lt;/p&gt;</description>
+	<name>2024-04-18 Ochsenhorn</name>
+	<workout>
+		<Warmup Duration="90" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="120" Power="0.72"/>
+		<SteadyState Duration="120" Power="0.96"/>
+		<SteadyState Duration="330" Power="0.5"/>
+		<SteadyState Duration="270" Power="1.06"/>
+		<SteadyState Duration="580" Power="0.4"/>
+		<SteadyState Duration="270" Power="1.06"/>
+		<SteadyState Duration="580" Power="0.4"/>
+		<SteadyState Duration="270" Power="1.06"/>
+		<SteadyState Duration="580" Power="0.4"/>
+		<SteadyState Duration="270" Power="1.06"/>
+		<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,3 @@
+The 40k Time Trial specialty plans prepare you for long, sustained efforts at high percentages of your FTP. These tough efforts require well-developed muscular endurance and favor riders with good steady-state power capabilities—two key areas targeted by this plan. Completing it will enable you to ride harder for long durations and leave you ready for success in your next time trial. 
+
+The high-volume version of the 8-week 40k TT specialty plan includes 6 workouts per week, each ranging from 60 to 150 minutes in length. The last 2 weeks of the plan serve as a taper, reducing volume but maintaining intensity in the final leadup to your goal event.

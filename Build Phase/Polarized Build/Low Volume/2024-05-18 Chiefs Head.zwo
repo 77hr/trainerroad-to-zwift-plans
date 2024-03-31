@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Chiefs Head&amp;nbsp;consists of nearly 3 hours of aerobic Endurance riding spent between 55-67% FTP.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Some of the optional form drills are Form Sprints, Endurance Spinning intervals, a bit of aero work &amp;amp; some Single-Leg Focus drills to name a few.&lt;/p&gt;</description>
+	<name>2024-05-18 Chiefs Head</name>
+	<workout>
+		<Warmup Duration="660" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="1500" Power="0.6"/>
+		<SteadyState Duration="180" Power="0.6"/>
+		<SteadyState Duration="600" Power="0.65"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="2100" Power="0.55"/>
+		<SteadyState Duration="180" Power="0.55"/>
+		<SteadyState Duration="600" Power="0.67"/>
+		<SteadyState Duration="180" Power="0.67"/>
+		<SteadyState Duration="2160" Power="0.55"/>
+		<SteadyState Duration="180" Power="0.55"/>
+		<SteadyState Duration="600" Power="0.65"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="900" Power="0.6"/>
+		<Ramp Duration="600" PowerLow="0.6" PowerHigh="0.5"/>
+	</workout>
+</workout_file>

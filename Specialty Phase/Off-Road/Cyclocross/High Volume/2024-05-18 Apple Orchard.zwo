@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Apple Orchard is 4 sets lasting 3.5 minutes each. Each interval consists of 6x15-second efforts at 125% FTP with less than restful &quot;floats&quot; for 15 seconds at 88% FTP.&lt;/p&gt;&lt;p&gt;&lt;p&gt;The floats grow to 30 seconds after every pair of short VO2 Max efforts and recoveries between sets are 3 minutes long.&lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-05-18 Apple Orchard</name>
+	<workout>
+		<Warmup Duration="360" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="360" Power="0.72"/>
+		<SteadyState Duration="45" Power="0.96"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="45" Power="0.96"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="45" Power="0.96"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="30" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<SteadyState Duration="15" Power="0.88"/>
+		<SteadyState Duration="15" Power="1.25"/>
+		<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

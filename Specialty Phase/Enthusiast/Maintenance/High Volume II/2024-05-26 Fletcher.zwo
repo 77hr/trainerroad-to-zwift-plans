@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Fletcher consists of nearly 90 minutes of aerobic Endurance riding spent between 65-75% FTP.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;This workout's form drills include Form Sprints, Endurance Spinning, and Pistons/Kick &amp;amp; Pull pedaling drills.&lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-05-26 Fletcher</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.55"/>
+		<SteadyState Duration="180" Power="0.6"/>
+		<SteadyState Duration="840" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="660" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="1080" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="720" Power="0.75"/>
+		<SteadyState Duration="60" Power="0.75"/>
+		<SteadyState Duration="660" Power="0.65"/>
+		<Ramp Duration="600" PowerLow="0.65" PowerHigh="0.55"/>
+	</workout>
+</workout_file>

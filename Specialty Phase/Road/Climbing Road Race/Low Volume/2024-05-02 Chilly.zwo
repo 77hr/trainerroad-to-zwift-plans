@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Chilly&amp;nbsp;is an assortment of suprathreshold efforts consisting of 2x5 minutes at 104% FTP, 4 minutes at 107% FTP, 2 minutes at 112% FTP and 2 minutes at 115% FTP. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Recoveries between intervals are all 3 minutes long.&lt;/p&gt;</description>
+	<name>2024-05-02 Chilly</name>
+	<workout>
+		<Warmup Duration="360" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="240" Power="0.72"/>
+		<SteadyState Duration="120" Power="0.96"/>
+		<SteadyState Duration="600" Power="0.4"/>
+		<SteadyState Duration="300" Power="1.04"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="300" Power="1.04"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="240" Power="1.07"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.12"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.15"/>
+		<Ramp Duration="480" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

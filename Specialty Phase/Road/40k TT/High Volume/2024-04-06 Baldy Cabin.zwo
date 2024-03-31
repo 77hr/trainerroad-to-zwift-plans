@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Baldy Cabin&amp;nbsp;consists of 4x10-minute intervals at 96% FTP, each separated by 10-minute recoveries.&lt;/p&gt;</description>
+	<name>2024-04-06 Baldy Cabin</name>
+	<workout>
+		<Warmup Duration="360" PowerHigh="0.4" PowerLow="0.4"/>
+		<SteadyState Duration="180" Power="0.76"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="600" Power="0.4"/>
+		<SteadyState Duration="600" Power="0.96"/>
+		<SteadyState Duration="600" Power="0.4"/>
+		<SteadyState Duration="600" Power="0.96"/>
+		<SteadyState Duration="600" Power="0.4"/>
+		<SteadyState Duration="600" Power="0.96"/>
+		<SteadyState Duration="600" Power="0.4"/>
+		<SteadyState Duration="600" Power="0.96"/>
+		<Ramp Duration="1680" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

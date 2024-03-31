@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;South Twin +3 consists of 2 sets of 2x5-minute VO2max intervals at 110% FTP.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;p&gt;Active recovery between intervals is 10 minutes long and between sets of intervals is 15 minutes long.&lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-05-09 South Twin +3</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="300" Power="0.72"/>
+		<SteadyState Duration="180" Power="0.96"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="300" Power="1.1"/>
+		<SteadyState Duration="600" Power="0.4"/>
+		<SteadyState Duration="300" Power="1.1"/>
+		<SteadyState Duration="900" Power="0.4"/>
+		<SteadyState Duration="300" Power="1.1"/>
+		<SteadyState Duration="600" Power="0.4"/>
+		<SteadyState Duration="300" Power="1.1"/>
+		<Ramp Duration="1080" PowerLow="0.65" PowerHigh="0.55"/>
+	</workout>
+</workout_file>

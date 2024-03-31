@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Baxter is 90&amp;nbsp;minutes of non-stop aerobic conditioning at 55-80% FTP where the effort changes based on cadence making this effectively a fixed-gear trainer ride with low to moderate effort levels aimed at primarily utilizing fat as the fuel source.&amp;nbsp;&lt;br&gt;&lt;/p&gt;</description>
+	<name>2024-04-10 Baxter</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.6"/>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="120" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.75"/>
+		<SteadyState Duration="180" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.8"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.55"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.6"/>
+		<SteadyState Duration="180" Power="0.75"/>
+		<SteadyState Duration="120" Power="0.8"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="120" Power="0.8"/>
+		<SteadyState Duration="60" Power="0.75"/>
+		<SteadyState Duration="180" Power="0.64"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.75"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.8"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="120" Power="0.8"/>
+		<SteadyState Duration="60" Power="0.75"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

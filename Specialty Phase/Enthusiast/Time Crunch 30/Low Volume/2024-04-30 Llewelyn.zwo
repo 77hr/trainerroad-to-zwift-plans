@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Llewelyn consists of 3 shorter rounds of Tabata Intervals where each 3-minute burst of 20-second, all-out effort is followed by a short 10-second recovery for a total of 6 reps per set. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;A 4:30 minute rest separates each set.&lt;/p&gt;</description>
+	<name>2024-04-30 Llewelyn</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.6"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="20" Power="1.51"/>
+		<SteadyState Duration="10" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.51"/>
+		<SteadyState Duration="10" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.51"/>
+		<SteadyState Duration="10" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.51"/>
+		<SteadyState Duration="10" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.51"/>
+		<SteadyState Duration="10" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.51"/>
+		<SteadyState Duration="270" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.51"/>
+		<SteadyState Duration="10" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.51"/>
+		<SteadyState Duration="10" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.51"/>
+		<SteadyState Duration="10" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.51"/>
+		<SteadyState Duration="10" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.51"/>
+		<SteadyState Duration="10" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.51"/>
+		<SteadyState Duration="270" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.51"/>
+		<SteadyState Duration="10" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.51"/>
+		<SteadyState Duration="10" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.51"/>
+		<SteadyState Duration="10" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.51"/>
+		<SteadyState Duration="10" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.51"/>
+		<SteadyState Duration="10" Power="0.43"/>
+		<SteadyState Duration="20" Power="1.51"/>
+		<Ramp Duration="210" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

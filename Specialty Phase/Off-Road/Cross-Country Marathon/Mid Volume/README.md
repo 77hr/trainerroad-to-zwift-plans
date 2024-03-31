@@ -1,0 +1,3 @@
+With unpredictable rhythms and highly-varied terrain, Marathon mountain bike races ask a lot of successful competitors. You need tremendous endurance for these long events, but you also need to put out repeated, high-intensity efforts, too. In the end, well-rounded fitness and wide-ranging capabilities make the difference, so the Cross Country Marathon specialty plan is designed to get you to race day in peak form with these needs in mind.
+
+The mid-volume version of this 8-week plan includes 5 workouts per week, each ranging from 60 to 120 minutes in length. An easier 4th week offers the chance for some mid-plan recovery, and the last 2 weeks of the plan serve as a taper, reducing volume but maintaining intensity in the final leadup to your goal event.

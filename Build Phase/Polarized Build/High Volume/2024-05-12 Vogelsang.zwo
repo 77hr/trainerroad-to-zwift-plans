@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Vogelsang consists of 4 hours of aerobic Endurance riding, most of which is spent between 60-70% FTP. To pass the time and improve your pedal economy, Vogelsang includes some form sprints, some endurance-spinning intervals, Pistons/Kick and Pull pedaling drills, and&amp;nbsp;some Single-Leg Focus (SLF) drills&amp;nbsp;to keep you engaged over this long haul.&lt;/p&gt;</description>
+	<name>2024-05-12 Vogelsang</name>
+	<workout>
+		<Warmup Duration="660" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="1500" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="600" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="1740" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="600" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="1980" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="600" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="1320" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="600" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="1680" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="600" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="1680" Power="0.6"/>
+		<Ramp Duration="240" PowerLow="0.6" PowerHigh="0.5"/>
+	</workout>
+</workout_file>

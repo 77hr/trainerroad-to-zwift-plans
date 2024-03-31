@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Sidole&amp;nbsp;consists of 75 minutes of aerobic Endurance riding spent between 50-62% FTP.&lt;/p&gt;</description>
+	<name>2024-04-04 Sidole</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="480" Power="0.54"/>
+		<SteadyState Duration="600" Power="0.58"/>
+		<SteadyState Duration="2520" Power="0.62"/>
+		<Ramp Duration="600" PowerLow="0.62" PowerHigh="0.52"/>
+	</workout>
+</workout_file>

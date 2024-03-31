@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Cape Range&amp;nbsp;is 4x5-minute repeats at 106% FTP where each interval is split in half by a 30-second recovery valley. &lt;/p&gt;&lt;p&gt;&lt;p&gt;Each full interval is separated by a 5 and a half minute recovery valley.&lt;/p&gt;</description>
+	<name>2024-05-09 Cape Range</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="300" Power="0.72"/>
+		<SteadyState Duration="180" Power="0.96"/>
+		<SteadyState Duration="230" Power="0.5"/>
+		<SteadyState Duration="155" Power="1.06"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="155" Power="1.06"/>
+		<SteadyState Duration="330" Power="0.4"/>
+		<SteadyState Duration="155" Power="1.06"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="155" Power="1.06"/>
+		<SteadyState Duration="330" Power="0.4"/>
+		<SteadyState Duration="155" Power="1.06"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="155" Power="1.06"/>
+		<SteadyState Duration="330" Power="0.4"/>
+		<SteadyState Duration="155" Power="1.06"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="155" Power="1.06"/>
+		<Ramp Duration="240" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

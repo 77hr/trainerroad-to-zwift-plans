@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Tompotika&amp;nbsp;is made up of 2x10-minute sets of 30-second steps which rise until they reach 115% FTP. Then, each 3% step decreases each minute until 97% FTP is reached.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The second ascent will take you to 108% FTP before again stepping down to 94% FTP, and recovery between intervals lasts 3 minutes.&lt;/p&gt;</description>
+	<name>2024-04-25 Tompotika</name>
+	<workout>
+		<Warmup Duration="60" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="90" Power="1.0"/>
+		<SteadyState Duration="150" Power="0.65"/>
+		<SteadyState Duration="30" Power="1.0"/>
+		<SteadyState Duration="30" Power="1.03"/>
+		<SteadyState Duration="30" Power="1.06"/>
+		<SteadyState Duration="30" Power="1.09"/>
+		<SteadyState Duration="30" Power="1.12"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="30" Power="1.12"/>
+		<SteadyState Duration="30" Power="1.09"/>
+		<SteadyState Duration="30" Power="1.06"/>
+		<SteadyState Duration="30" Power="1.03"/>
+		<SteadyState Duration="30" Power="1.0"/>
+		<SteadyState Duration="30" Power="0.97"/>
+		<SteadyState Duration="30" Power="1.0"/>
+		<SteadyState Duration="30" Power="1.03"/>
+		<SteadyState Duration="30" Power="1.08"/>
+		<SteadyState Duration="30" Power="1.05"/>
+		<SteadyState Duration="30" Power="1.02"/>
+		<SteadyState Duration="30" Power="0.99"/>
+		<SteadyState Duration="30" Power="0.96"/>
+		<SteadyState Duration="30" Power="0.94"/>
+		<SteadyState Duration="180" Power="0.68"/>
+		<SteadyState Duration="30" Power="1.0"/>
+		<SteadyState Duration="30" Power="1.03"/>
+		<SteadyState Duration="30" Power="1.06"/>
+		<SteadyState Duration="30" Power="1.09"/>
+		<SteadyState Duration="30" Power="1.12"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="30" Power="1.12"/>
+		<SteadyState Duration="30" Power="1.09"/>
+		<SteadyState Duration="30" Power="1.06"/>
+		<SteadyState Duration="30" Power="1.03"/>
+		<SteadyState Duration="30" Power="1.0"/>
+		<SteadyState Duration="30" Power="0.97"/>
+		<SteadyState Duration="30" Power="1.0"/>
+		<SteadyState Duration="30" Power="1.03"/>
+		<SteadyState Duration="30" Power="1.08"/>
+		<SteadyState Duration="30" Power="1.05"/>
+		<SteadyState Duration="30" Power="1.02"/>
+		<SteadyState Duration="30" Power="0.99"/>
+		<SteadyState Duration="30" Power="0.96"/>
+		<SteadyState Duration="30" Power="0.94"/>
+		<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

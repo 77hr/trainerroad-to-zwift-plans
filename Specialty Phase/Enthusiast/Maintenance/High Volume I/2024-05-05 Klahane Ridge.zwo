@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Klahane Ridge is 2 hours of steady, aerobic Endurance spent between 55-74% FTP.&lt;/p&gt;</description>
+	<name>2024-05-05 Klahane Ridge</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="300" Power="0.55"/>
+		<SteadyState Duration="900" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="720" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="840" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="960" Power="0.73"/>
+		<SteadyState Duration="60" Power="0.73"/>
+		<SteadyState Duration="840" Power="0.68"/>
+		<SteadyState Duration="60" Power="0.68"/>
+		<SteadyState Duration="960" Power="0.74"/>
+		<SteadyState Duration="60" Power="0.74"/>
+		<SteadyState Duration="720" Power="0.65"/>
+		<Ramp Duration="300" PowerLow="0.65" PowerHigh="0.55"/>
+	</workout>
+</workout_file>

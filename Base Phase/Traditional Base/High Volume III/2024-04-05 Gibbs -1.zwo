@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Gibbs -1 consists of 2 hours of aerobic Endurance riding spent between 50-60% FTP.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<name>2024-04-05 Gibbs -1</name>
+	<workout>
+		<Warmup Duration="660" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="900" Power="0.53"/>
+		<SteadyState Duration="60" Power="0.53"/>
+		<SteadyState Duration="840" Power="0.56"/>
+		<SteadyState Duration="60" Power="0.56"/>
+		<SteadyState Duration="900" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="1260" Power="0.56"/>
+		<SteadyState Duration="60" Power="0.56"/>
+		<SteadyState Duration="780" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="480" Power="0.55"/>
+		<Ramp Duration="1080" PowerLow="0.55" PowerHigh="0.45"/>
+	</workout>
+</workout_file>

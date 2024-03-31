@@ -1,0 +1,3 @@
+General Base efficiently builds aerobic fitness with an engaging variety of workout intensities and interval styles. It's particularly useful for athletes with limited time to train, and since this describes most of us, it's the starting point we recommend for the majority of TrainerRoad cyclists.
+
+General Base is divided into three consecutive four-week blocks, meant to be completed in order when time permits. All volumes include plenty of recovery, but if you're new to interval training, we recommend starting with Low- or Mid-Volume and assessing how your body responds before adding additional volume.

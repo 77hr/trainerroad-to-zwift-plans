@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;La Dama Blanca consists of 4 sets of short efforts lasting between 1-4 minutes at 98-119% FTP with very short, 30-second recoveries between intervals.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Recoveries between sets of intervals last 5 minutes each.&lt;/p&gt;</description>
+	<name>2024-04-30 La Dama Blanca</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="120" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.8"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.0"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.98"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="240" Power="1.0"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.19"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.12"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.99"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.98"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="240" Power="1.0"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.19"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.12"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.99"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.98"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="240" Power="1.0"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.19"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.12"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.99"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.98"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="240" Power="1.0"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.19"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.12"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.99"/>
+		<Ramp Duration="150" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

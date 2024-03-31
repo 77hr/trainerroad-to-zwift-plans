@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Pahrah is a pre-race warmup for events that will require short, intense and repetitive efforts.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Starting with a gradual ramp and 1-minute effort at 80% FTP, you then get a chance to collect yourself before a 80-90% 5-minute ramp.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;After this primer, the warmup becomes more event-specific with decreasing duration 45-second to 8-second intervals offset by increasing rest intervals. The intensity of these intervals grows from 120-220% FTP, making sure you are familiar with the demands of a fast-paced start and short, intense efforts.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Finally, the warmup gives you 3-minutes of recovery before you head up to the line.&lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-05-25 Pahrah</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="150" Power="0.6"/>
+		<SteadyState Duration="150" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.8"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.8"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.2"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.3"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="25" Power="1.4"/>
+		<SteadyState Duration="25" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.5"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="8" Power="1.8"/>
+		<SteadyState Duration="122" Power="0.4"/>
+		<SteadyState Duration="8" Power="2.0"/>
+		<SteadyState Duration="122" Power="0.4"/>
+		<SteadyState Duration="8" Power="2.2"/>
+		<Ramp Duration="182" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

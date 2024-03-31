@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Bolton Brown -6 is the ideal combination of VO2max efforts and muscle endurance work first pitting you against 4x2-minute VO2max repeats at 112-118% FTP. &lt;/p&gt;&lt;p&gt;&lt;p&gt;You'll actively recovery for 2 minutes between repeats before heading into a longer, 8-minute stretch of recovery. &lt;/p&gt;&lt;p&gt;&lt;p&gt;Then, you'll tackle 4x3-minute over-under intervals that start with 2 minutes at 90% FTP and conclude with 1 minute at 102% FTP resting for 3 minutes after each. &lt;/p&gt;&lt;p&gt;&lt;p&gt;Afterward, you'll log 17 minutes at Endurance riding at just 60% before cooling down.&lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-05-18 Bolton Brown -6</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="180" Power="0.8"/>
+		<SteadyState Duration="60" Power="1.0"/>
+		<SteadyState Duration="60" Power="0.5"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="60" Power="0.5"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="600" Power="0.6"/>
+		<SteadyState Duration="120" Power="1.12"/>
+		<SteadyState Duration="120" Power="0.5"/>
+		<SteadyState Duration="120" Power="1.18"/>
+		<SteadyState Duration="120" Power="0.5"/>
+		<SteadyState Duration="120" Power="1.12"/>
+		<SteadyState Duration="120" Power="0.5"/>
+		<SteadyState Duration="120" Power="1.18"/>
+		<SteadyState Duration="480" Power="0.6"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="60" Power="1.02"/>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="60" Power="1.02"/>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="60" Power="1.02"/>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="60" Power="1.02"/>
+		<SteadyState Duration="1020" Power="0.6"/>
+		<Ramp Duration="300" PowerLow="0.6" PowerHigh="0.5"/>
+	</workout>
+</workout_file>

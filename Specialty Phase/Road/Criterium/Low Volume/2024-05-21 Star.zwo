@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Star is 3 sets of 6x20-second sprints at 160% FTP with diminishing recoveries that start at 60 seconds long and decrease all the way down to 20 seconds before a longer, 2-minute recovery valley rests you up in preparation for the next round of sprints.&lt;/p&gt;</description>
+	<name>2024-05-21 Star</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="120" Power="0.7"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.6"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.6"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.6"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.6"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.6"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.6"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.6"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.6"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.6"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.6"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.6"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.6"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.6"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.6"/>
+		<SteadyState Duration="50" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.6"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.6"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.6"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="20" Power="1.6"/>
+		<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

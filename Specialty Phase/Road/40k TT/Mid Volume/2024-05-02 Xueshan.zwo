@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Xueshan&amp;nbsp;is a progression workout where each 10% step lasts 13:30 minutes and starts at 60% FTP and then progresses the workload up to 100% FTP during the final step. &lt;/p&gt;</description>
+	<name>2024-05-02 Xueshan</name>
+	<workout>
+		<Warmup Duration="210" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="810" Power="0.6"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="810" Power="0.7"/>
+		<SteadyState Duration="30" Power="0.7"/>
+		<SteadyState Duration="810" Power="0.8"/>
+		<SteadyState Duration="30" Power="0.8"/>
+		<SteadyState Duration="810" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.9"/>
+		<SteadyState Duration="750" Power="1.0"/>
+		<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Iron Crag&amp;nbsp;totals just under&amp;nbsp;60 minutes of Tempo intervals spent between 75-88% FTP with intermittent, 6-minute recoveries at 55% FTP. &lt;/p&gt;</description>
+	<name>2024-04-04 Iron Crag</name>
+	<workout>
+		<Warmup Duration="480" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="540" Power="0.65"/>
+		<SteadyState Duration="600" Power="0.8"/>
+		<SteadyState Duration="360" Power="0.55"/>
+		<SteadyState Duration="600" Power="0.88"/>
+		<SteadyState Duration="360" Power="0.55"/>
+		<SteadyState Duration="600" Power="0.75"/>
+		<SteadyState Duration="360" Power="0.55"/>
+		<SteadyState Duration="600" Power="0.85"/>
+		<Ramp Duration="900" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

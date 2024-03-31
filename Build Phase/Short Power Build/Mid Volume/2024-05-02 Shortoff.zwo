@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Shortoff consists of 2 sets of 3x2-minute VO2 Max intervals at 120% FTP. &lt;/p&gt;&lt;p&gt;&lt;p&gt;Recovery between intervals is 2 minutes long and recovery between sets of intervals is 5 minutes long.&lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-05-02 Shortoff</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="240" Power="0.65"/>
+		<SteadyState Duration="240" Power="0.8"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.2"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.2"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.2"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.2"/>
+		<Ramp Duration="1050" PowerLow="0.65" PowerHigh="0.55"/>
+	</workout>
+</workout_file>

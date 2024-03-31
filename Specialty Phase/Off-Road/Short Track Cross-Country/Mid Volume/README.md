@@ -1,0 +1,3 @@
+The Short Track Cross-Country specialty plan cultivates maximum aerobic power and high-level endurance. Taking full advantage of the fitness you developed in the Base and Build phases, you’ll develop the ability to repeat extremely high-power efforts, over and over again. It’s just what you need to land on the podium of your goal short track events.
+
+The mid-volume version of this 8-week plan includes 5 workouts per week, each ranging from 60 to 120 minutes in length and targeting the demands of short track races. An easier 4th week offers the chance for some mid-plan recovery, and the last 2 weeks of the plan serve as a taper, reducing volume but maintaining intensity in the final leadup to your goal event.

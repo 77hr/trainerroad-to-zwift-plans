@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Piute -4 is a progression workout where each of four 12-minute steps increases the power requirement by 10%. The steps start at 70% FTP and finish at 100% FTP.&lt;/p&gt;</description>
+	<name>2024-04-18 Piute -4</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.6"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="690" Power="0.7"/>
+		<SteadyState Duration="30" Power="0.7"/>
+		<SteadyState Duration="690" Power="0.8"/>
+		<SteadyState Duration="30" Power="0.8"/>
+		<SteadyState Duration="690" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.9"/>
+		<SteadyState Duration="690" Power="1.0"/>
+		<Ramp Duration="360" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

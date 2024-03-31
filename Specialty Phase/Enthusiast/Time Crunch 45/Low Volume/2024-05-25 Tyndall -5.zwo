@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;The time-crunched version of Tyndall is a round of 4x9-repeat sets of microbursts consisting of 15 seconds at 150% FTP followed directly by 15 seconds at 40% FTP, over and over and over again.&lt;/p&gt;&lt;p&gt;&lt;p&gt;Rest between sets of bursts are a scant 2 minutes each. &lt;/p&gt;&lt;p&gt;&lt;p&gt;The first set of microbursts offers a ramping warmup which can help you determine any Workout Intensity reductions that might be necessary.&lt;/p&gt;</description>
+	<name>2024-05-25 Tyndall -5</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="60" Power="0.96"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="10" Power="1.3"/>
+		<SteadyState Duration="10" Power="0.4"/>
+		<SteadyState Duration="10" Power="1.4"/>
+		<SteadyState Duration="10" Power="0.4"/>
+		<SteadyState Duration="10" Power="1.5"/>
+		<SteadyState Duration="70" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.3"/>
+		<SteadyState Duration="15" Power="0.41"/>
+		<SteadyState Duration="15" Power="1.3"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.3"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.4"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.4"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.4"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="120" Power="0.39"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<SteadyState Duration="15" Power="0.4"/>
+		<SteadyState Duration="15" Power="1.5"/>
+		<Ramp Duration="60" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Taku is a short, aerobic Endurance workout consisting of 30 minutes spent between 60-70% FTP.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Taku can serve as a light workout on its own, it can be paired with a short, intense interval session, beforehand or afterward, or it can be used to get you on the bike between hard workouts in order to spin out some heaviness.&lt;/p&gt;</description>
+	<name>2024-05-22 Taku</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="120" Power="0.6"/>
+		<SteadyState Duration="300" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.65"/>
+		<SteadyState Duration="300" Power="0.7"/>
+		<SteadyState Duration="120" Power="0.7"/>
+		<SteadyState Duration="360" Power="0.6"/>
+		<Ramp Duration="300" PowerLow="0.6" PowerHigh="0.5"/>
+	</workout>
+</workout_file>

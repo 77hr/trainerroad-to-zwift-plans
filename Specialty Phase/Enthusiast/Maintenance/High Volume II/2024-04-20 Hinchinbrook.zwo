@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;4 sets of ascending-intensity/descending-duration VO2max repeats starting with 2x2-minutes at 106-108% FTP with 11-minute recoveries.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Followed by 2x30-second bursts at 117% FTP with 4 minutes&amp;nbsp;of rest.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Next is 3x1:45-minute efforts at 108-109% FTP with 5:25 minutes of recovery.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Finally, 2x1-minute repeats at 109-116% FTP with 4:35&amp;nbsp;minutes of&amp;nbsp;recovery close out the workout.&lt;/p&gt;</description>
+	<name>2024-04-20 Hinchinbrook</name>
+	<workout>
+		<Warmup Duration="150" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="150" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.05"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.08"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.12"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="330" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.06"/>
+		<SteadyState Duration="660" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.08"/>
+		<SteadyState Duration="720" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.17"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.17"/>
+		<SteadyState Duration="720" Power="0.4"/>
+		<SteadyState Duration="105" Power="1.08"/>
+		<SteadyState Duration="325" Power="0.4"/>
+		<SteadyState Duration="105" Power="1.09"/>
+		<SteadyState Duration="390" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.09"/>
+		<SteadyState Duration="275" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.16"/>
+		<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

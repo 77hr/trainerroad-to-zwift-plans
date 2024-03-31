@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Stones&amp;nbsp;is 2 sets of 2x5-minute ladders stepping from 98-111% FTP before stepping back down to again, all in 1-minute steps.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Recoveries between intervals are a scant 1 minute while the rest between sets of intervals is 2 minutes long.&lt;/p&gt;</description>
+	<name>2024-04-04 Stones</name>
+	<workout>
+		<Warmup Duration="60" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="60" Power="0.91"/>
+		<SteadyState Duration="60" Power="1.05"/>
+		<SteadyState Duration="120" Power="0.67"/>
+		<SteadyState Duration="60" Power="0.98"/>
+		<SteadyState Duration="60" Power="1.04"/>
+		<SteadyState Duration="60" Power="1.11"/>
+		<SteadyState Duration="60" Power="1.04"/>
+		<SteadyState Duration="60" Power="0.98"/>
+		<SteadyState Duration="60" Power="0.67"/>
+		<SteadyState Duration="60" Power="0.98"/>
+		<SteadyState Duration="60" Power="1.04"/>
+		<SteadyState Duration="60" Power="1.11"/>
+		<SteadyState Duration="60" Power="1.04"/>
+		<SteadyState Duration="60" Power="0.98"/>
+		<SteadyState Duration="120" Power="0.67"/>
+		<SteadyState Duration="60" Power="0.98"/>
+		<SteadyState Duration="60" Power="1.04"/>
+		<SteadyState Duration="60" Power="1.11"/>
+		<SteadyState Duration="60" Power="1.04"/>
+		<SteadyState Duration="60" Power="0.98"/>
+		<SteadyState Duration="60" Power="0.67"/>
+		<SteadyState Duration="60" Power="0.98"/>
+		<SteadyState Duration="60" Power="1.04"/>
+		<SteadyState Duration="60" Power="1.11"/>
+		<SteadyState Duration="60" Power="1.04"/>
+		<SteadyState Duration="60" Power="0.98"/>
+		<Ramp Duration="60" PowerLow="0.63" PowerHigh="0.53"/>
+	</workout>
+</workout_file>

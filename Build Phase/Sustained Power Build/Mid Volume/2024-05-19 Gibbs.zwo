@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Gibbs consists of 2 hours of aerobic Endurance riding spent between 60-70% FTP.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Optional form drills include Form Sprints, Endurance Spinning intervals, and some Single-Leg Focus drills.&lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-05-19 Gibbs</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="300" Power="0.55"/>
+		<SteadyState Duration="900" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="840" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="720" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="1260" Power="0.66"/>
+		<SteadyState Duration="60" Power="0.66"/>
+		<SteadyState Duration="780" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="480" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="660" Power="0.6"/>
+		<Ramp Duration="600" PowerLow="0.6" PowerHigh="0.5"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;McDuffie -4 consists of only 4 sets of &quot;sprint-ervals&quot; each comprised of 3x12-second sprints at 200% FTP followed closely by a slightly suprathreshold, 3-minute effort at 105% FTP.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Recoveries between sprints are about 50 seconds long, and the recoveries between sets are 3 minutes each.&lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-04-28 McDuffie -4</name>
+	<workout>
+		<Warmup Duration="120" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="120" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="6" Power="1.5"/>
+		<SteadyState Duration="24" Power="0.4"/>
+		<SteadyState Duration="6" Power="2.0"/>
+		<SteadyState Duration="144" Power="0.4"/>
+		<SteadyState Duration="12" Power="2.0"/>
+		<SteadyState Duration="48" Power="0.4"/>
+		<SteadyState Duration="12" Power="2.0"/>
+		<SteadyState Duration="48" Power="0.4"/>
+		<SteadyState Duration="12" Power="2.0"/>
+		<SteadyState Duration="48" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="12" Power="2.0"/>
+		<SteadyState Duration="48" Power="0.4"/>
+		<SteadyState Duration="12" Power="2.0"/>
+		<SteadyState Duration="48" Power="0.4"/>
+		<SteadyState Duration="12" Power="2.0"/>
+		<SteadyState Duration="48" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="12" Power="2.0"/>
+		<SteadyState Duration="48" Power="0.4"/>
+		<SteadyState Duration="12" Power="2.0"/>
+		<SteadyState Duration="48" Power="0.4"/>
+		<SteadyState Duration="12" Power="2.0"/>
+		<SteadyState Duration="48" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="12" Power="2.0"/>
+		<SteadyState Duration="48" Power="0.4"/>
+		<SteadyState Duration="12" Power="2.0"/>
+		<SteadyState Duration="48" Power="0.4"/>
+		<SteadyState Duration="12" Power="2.0"/>
+		<SteadyState Duration="48" Power="0.4"/>
+		<SteadyState Duration="180" Power="1.05"/>
+		<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

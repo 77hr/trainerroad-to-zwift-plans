@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Starlight -2 is 3x10-minute over-under intervals alternating between 3 minutes at 95% FTP and 2 minutes at 105% FTP with 6-minute recoveries between intervals.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The set of over-unders is sandwiched 2x18-minute Endurance intervals spent at 65% FTP. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;</description>
+	<name>2024-04-11 Starlight -2</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.9"/>
+		<SteadyState Duration="1080" Power="0.65"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="120" Power="1.05"/>
+		<SteadyState Duration="1080" Power="0.62"/>
+		<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

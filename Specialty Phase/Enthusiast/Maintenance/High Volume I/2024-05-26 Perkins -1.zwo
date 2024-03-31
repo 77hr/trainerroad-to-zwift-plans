@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Perkins -1 is a highly varied 2 hours of aerobic Endurance riding ranging from 50-65% FTP.&lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-05-26 Perkins -1</name>
+	<workout>
+		<Warmup Duration="180" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="180" Power="0.55"/>
+		<SteadyState Duration="180" Power="0.6"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="180" Power="0.6"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.62"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="180" Power="0.61"/>
+		<SteadyState Duration="60" Power="0.57"/>
+		<SteadyState Duration="180" Power="0.63"/>
+		<SteadyState Duration="120" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.58"/>
+		<SteadyState Duration="180" Power="0.62"/>
+		<SteadyState Duration="120" Power="0.58"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.62"/>
+		<SteadyState Duration="180" Power="0.64"/>
+		<SteadyState Duration="60" Power="0.61"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.57"/>
+		<SteadyState Duration="180" Power="0.61"/>
+		<SteadyState Duration="120" Power="0.58"/>
+		<SteadyState Duration="180" Power="0.61"/>
+		<SteadyState Duration="120" Power="0.65"/>
+		<SteadyState Duration="180" Power="0.6"/>
+		<SteadyState Duration="120" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.61"/>
+		<SteadyState Duration="240" Power="0.64"/>
+		<SteadyState Duration="180" Power="0.62"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.59"/>
+		<SteadyState Duration="180" Power="0.62"/>
+		<SteadyState Duration="120" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.61"/>
+		<SteadyState Duration="180" Power="0.64"/>
+		<SteadyState Duration="120" Power="0.58"/>
+		<SteadyState Duration="60" Power="0.6"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.61"/>
+		<SteadyState Duration="180" Power="0.63"/>
+		<SteadyState Duration="120" Power="0.6"/>
+		<SteadyState Duration="60" Power="0.57"/>
+		<SteadyState Duration="180" Power="0.64"/>
+		<SteadyState Duration="60" Power="0.61"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.6"/>
+		<Ramp Duration="300" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

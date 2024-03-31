@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Bald -2 is 60 minutes of aerobic Recovery riding spent between 50-55% FTP.&lt;/p&gt;</description>
+	<name>2024-04-23 Bald -2</name>
+	<workout>
+		<Warmup Duration="150" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="150" Power="0.52"/>
+		<SteadyState Duration="150" Power="0.53"/>
+		<SteadyState Duration="150" Power="0.54"/>
+		<SteadyState Duration="900" Power="0.55"/>
+		<SteadyState Duration="960" Power="0.55"/>
+		<SteadyState Duration="840" Power="0.55"/>
+		<Ramp Duration="300" PowerLow="0.55" PowerHigh="0.45"/>
+	</workout>
+</workout_file>

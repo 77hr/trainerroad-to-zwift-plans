@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Lolita -1 is centered around a 20-minute practice TT effort at about 95% FTP.&lt;/p&gt;</description>
+	<name>2024-05-18 Lolita -1</name>
+	<workout>
+		<Warmup Duration="360" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="360" Power="0.72"/>
+		<SteadyState Duration="180" Power="0.96"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.86"/>
+		<SteadyState Duration="1080" Power="0.94"/>
+		<Ramp Duration="300" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

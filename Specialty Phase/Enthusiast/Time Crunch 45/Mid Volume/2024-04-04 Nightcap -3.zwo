@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Nightcap -2 is 2x10-minute intervals at 102% FTP with 7-minute recoveries between intervals.&lt;/p&gt;</description>
+	<name>2024-04-04 Nightcap -3</name>
+	<workout>
+		<Warmup Duration="240" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="240" Power="0.72"/>
+		<SteadyState Duration="180" Power="0.96"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="600" Power="1.02"/>
+		<SteadyState Duration="420" Power="0.4"/>
+		<SteadyState Duration="600" Power="1.02"/>
+		<Ramp Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

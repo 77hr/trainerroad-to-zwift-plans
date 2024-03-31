@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Solferino&amp;nbsp;is 4x4-minute intrevals at 106% FTP. Each full interval is separated by a 10 minute an 45 seconds recovery valley.&lt;/p&gt;</description>
+	<name>2024-04-11 Solferino</name>
+	<workout>
+		<Warmup Duration="105" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="120" Power="0.72"/>
+		<SteadyState Duration="120" Power="0.96"/>
+		<SteadyState Duration="240" Power="0.5"/>
+		<SteadyState Duration="240" Power="1.06"/>
+		<SteadyState Duration="645" Power="0.4"/>
+		<SteadyState Duration="240" Power="1.06"/>
+		<SteadyState Duration="645" Power="0.4"/>
+		<SteadyState Duration="240" Power="1.06"/>
+		<SteadyState Duration="645" Power="0.4"/>
+		<SteadyState Duration="240" Power="1.06"/>
+		<Ramp Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

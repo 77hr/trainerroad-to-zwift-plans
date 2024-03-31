@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Greens&amp;nbsp;is a progression workout where each 10% step lasts between 13 and 14:30 minutes&amp;nbsp;and starts at 60% FTP and progresses the workload up to 100% FTP during the final step. &lt;/p&gt;</description>
+	<name>2024-05-09 Greens</name>
+	<workout>
+		<Warmup Duration="210" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="780" Power="0.6"/>
+		<SteadyState Duration="30" Power="0.6"/>
+		<SteadyState Duration="780" Power="0.7"/>
+		<SteadyState Duration="30" Power="0.7"/>
+		<SteadyState Duration="780" Power="0.8"/>
+		<SteadyState Duration="30" Power="0.8"/>
+		<SteadyState Duration="870" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.9"/>
+		<SteadyState Duration="870" Power="1.0"/>
+		<Ramp Duration="90" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

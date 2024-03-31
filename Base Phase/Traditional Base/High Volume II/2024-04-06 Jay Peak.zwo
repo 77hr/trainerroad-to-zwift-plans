@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;div&gt;&lt;p&gt;Jay Peak is 2 hours and 15 minutes of Tempo intervals spent between 70-80% FTP with intermittent, 3 to 5-minute recoveries at 55% FTP. &lt;/p&gt;&lt;/div&gt;</description>
+	<name>2024-04-06 Jay Peak</name>
+	<workout>
+		<Warmup Duration="360" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="360" Power="0.72"/>
+		<SteadyState Duration="180" Power="0.96"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="720" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.55"/>
+		<SteadyState Duration="480" Power="0.8"/>
+		<SteadyState Duration="300" Power="0.55"/>
+		<SteadyState Duration="1320" Power="0.75"/>
+		<SteadyState Duration="180" Power="0.55"/>
+		<SteadyState Duration="900" Power="0.8"/>
+		<SteadyState Duration="240" Power="0.55"/>
+		<SteadyState Duration="1320" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.55"/>
+		<SteadyState Duration="900" Power="0.8"/>
+		<Ramp Duration="180" PowerLow="0.5" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

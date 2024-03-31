@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<workout_file>
+	<author>TrainerRoad</author>
+	<description>&lt;p&gt;Bare is 2 hours 30 minutes of aerobic Endurance riding spent between 60-73% FTP.&lt;/p&gt;</description>
+	<name>2024-05-18 Bare</name>
+	<workout>
+		<Warmup Duration="300" PowerHigh="0.5" PowerLow="0.5"/>
+		<SteadyState Duration="300" Power="0.6"/>
+		<SteadyState Duration="900" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="780" Power="0.68"/>
+		<SteadyState Duration="60" Power="0.68"/>
+		<SteadyState Duration="840" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="840" Power="0.73"/>
+		<SteadyState Duration="60" Power="0.73"/>
+		<SteadyState Duration="840" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="840" Power="0.68"/>
+		<SteadyState Duration="60" Power="0.68"/>
+		<SteadyState Duration="840" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.7"/>
+		<SteadyState Duration="900" Power="0.73"/>
+		<SteadyState Duration="60" Power="0.73"/>
+		<SteadyState Duration="840" Power="0.68"/>
+		<Ramp Duration="300" PowerLow="0.68" PowerHigh="0.58"/>
+	</workout>
+</workout_file>
